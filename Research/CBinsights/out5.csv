@@ -1,0 +1,935 @@
+﻿	Titles	Dates	Links	Contenu	Images
+0	"
+
+					Future Factory: How Technology Is Transforming Manufacturing                
+"	"
+			June 27, 2019        "	https://www.cbinsights.com/research/future-factory-manufacturing-tech-trends/	"From advanced robotics in R&D labs to computer vision in warehouses, technology is making an impact on every step of the manufacturing process.
+“Lights-out manufacturing” refers to factories that operate autonomously and require no human presence. Because they don’t need human supervision, they don’t require lighting, and can consist of several machines functioning in the dark.
+While this may sound like science fiction, these kinds of factories have been a reality for more than 15 years.
+Learn about the trends and technologies disrupting advanced manufacturing and what to watch in 2019.
+The Japanese robotics maker FANUC has been operating a “lights-out” factory since 2001, where robots build other robots completely unsupervised for nearly a month at a time.
+“Not only is it lights-out,” said FANUC VP Gary Zywiol, “we turn off the air conditioning and heat too.”
+To imagine a world where robots do all the physical work, one simply needs to look at the most ambitious and technology-laden factories of today.
+
+In June 2018, the Chinese e-commerce giant JD.com unveiled a fully automated storage and shipping facility in Shanghai.
+The factory is outfitted with twenty industrial robots that can pick, pack, and transfer packages with no human presence or oversight.
+Without robots, it would take as many as 500 workers to fully staff this 40K square foot warehouse — instead, the factory requires only five technicians to service the machines and keep them working.
+As industrial technology grows increasingly pervasive, this wave of automation and digitization is being labelled “Industry 4.0,” as in the fourth industrial revolution.
+So, what does the future of factories hold?
+To answer this, we took a deep dive into 8 different steps of the manufacturing process, to see how they are starting to change:
+
+Despite representing 11.6% of US GDP, manufacturing remains an area of relatively low digitization — meaning there’s plenty of headroom for automation and software-led improvements. In fact, in 2017, 76% of manufacturers reported having a smart factory initiative in the works.
+Manufacturing is deeply changing with new technology, and nearly every manufacturing vertical — from cars, to electronics, to pharmaceuticals — is implicated. The timelines and technologies will vary by sector, but most steps in nearly every vertical will see improvement.
+Read on for a closer look at how technology is transforming each step of the manufacturing process.
+From drug production to industrial design, the planning stage is crucial for mass-production. Across industries, designers, chemists, and engineers are constantly hypothesis testing.
+Will this design look right? Does this compound fit our needs? Testing and iterating is the essence of research and development. And the nature of mass-production makes last-minute redesigns costly.
+Major corporations across drugs, technology, aerospace, and more pour billions of dollars each year into R&D.
+
+In the highly-scientific world of R&D, high-caliber talent is distributed across the globe. Now, software is helping companies tap into that pool.
+When it comes to networking untapped talent in data science and finance, platforms like Kaggle, Quantopian, and Numerai are democratizing “quant” work and compensating their collaborators. The concept has also already taken off with pharmaceutical R&D, though it’s growing elsewhere as well. On-demand science platforms like Science Exchange are currently working across R&D verticals, and allow corporations to quickly solve for a lack of on-site talent by outsourcing R&D.
+While R&D scientists may seem non-essential to the manufacturing process, they are increasingly critical for delivering the latest and greatest technology, especially in high-tech manufacturing.
+Companies are exploring robotics, 3D printing, and artificial intelligence as avenues to improve the R&D process and reduce uncertainty when going into production. But the process of hypothesis testing has room for improvement, and tightening iteration time will translate to faster and better discoveries.
+Accelerating product development is the #1 priority for firms using 3D printing, according to a recent industry survey.
+Moreover, most 3D printing use is directed at prototyping new technology.
+
+3D printing is already a staple in any design studio. Before ordering thousands of physical parts, designers can us 3D printing to see what a future product looks like.
+Similarly, robotics is automating the physical process of trial-and-error across a wide array of verticals.
+In R&D for synthetic biology, for example, robotics is making a big impact for companies like Zymergen and Ginkgo Bioworks, which manufacture custom chemicals from yeast microbes. Finding the perfect microbe requires testing up to 4,000 different variants concurrently, which translates to lot of wet lab work.
+Using automatic pipette systems and robotics arms, liquid handling robots permit high-throughput experimentation to arrive at a winning combination faster and with less human error.
+Below is the robot gene tester Counsyl (left), used for transferring samples, and Zymergen’s pipetting robot (right) for automating microbe culture testing.
+
+“Materials engineering is the ability to detect a very small particle — something like a 10-nanometer particle on a 300-millimeter wafer. That is really equivalent to finding an ant in the city of Seattle.” — Om Nalamasu, CTO at Applied Materials
+Companies are now emerging to make these kinds of automatic pipetting technologies and others more accessible. Y Combinator alum Opentrons has raised nearly $30M for its platform designed to allow scientists to build the logic to automate repetitive experiments without using code — it claims to have 90% of the top 50 research universities now using its software and robots.
+Its $4,000 lab robot, the OT-2, comes with a library of pre-programmed experimental routines that researchers can use to build their own protocols.
+Looking beyond biotech, material science has played a pivotal role in computing and electronics.
+Notably, chip manufacturers like Intel and Samsung are among the largest R&D spenders in the world. As semiconductors get ever-smaller, working at nanoscale requires precision beyond human ability, making robotics the preferred option.
+Tomorrow’s scientific tools will be increasingly more automated and precise to handle micro-scale precision.
+Currently, the hottest area for deals to AI startups is healthcare, as companies employ AI for drug discovery pipelines. Pharma companies are pouring cash into startups tracing drug R&D such as Recursion Pharmaceuticals and twoXAR, and it’s only a matter of time until this takes off elsewhere.
+One company working in chemistry and materials science is Citrine Informatics (below, left). Citrine runs AI on its massive materials database, and claims it helps organizations hit R&D and manufacturing milestones 50% of the time. In 2018, Citrine raised $8M from Tencent to aid its international expansion — the next year, it announced a partnership with LANXESS to work on the use of AI for plastics production. Similarly, Deepchem (right) develops a Python library for applying deep learning to chemistry.
+In short, manufacturers across sectors — industrial biotech, drugs, cars, electronics, or other material goods — are relying on robotic automation and 3D printing to remain competitive and tighten the feedback loop in bringing a product to launch.
+
+Already, startups developing or commercializing complex materials are taking off in the 3D printing world. Companies like MarkForged employ carbon fiber composites, where others like BMF Material Technology are developing composites with rare nanostructures and exotic physical properties. As of March 2019, MarkForged has provided 3D printing services to Google, Amazon, and General Motors, and the company shipped 2,500 printers in 2018.
+Certainly, manufacturers of the future will be relying on intelligent software to make their R&D discoveries.
+Currently, manufacturers of all types rely on prototyping with computer aided design (CAD) software. In future manufacturing processes, augmented and virtual reality could play a greater role in R&D, and could effectively “abstract away” the desktop PC for industrial designers, possibly eliminating the need for 3D printed physical models.
+Autodesk, the software developer of AutoCAD, is a bellwether for the future of prototyping and collaboration technology. The company has been no stranger to investing in cutting-edge technology such as 3D printing, including a partnership with health AI startup Atomwise. Recently, Autodesk’s exploration into making an AR/VR game engine foreshadows the larger role it envisions for immersive computing in the design process.
+
+Autodesk’s game engine, called Stingray, has support for the HTC Vive and Oculus Rift headsets. Additionally, game and VR engine maker Unity has a partnership with Autodesk to increase interoperability.
+Similarly, Apple has imagined AR/VR facilitating the design process in combination with 3D printing. Using the CB Insights database, we surfaced an Apple patent that envisions AR “overlaying computer-generated virtual information” onto real-world views of existing objects, effectively allowing industrial designers to make 3D-printed “edits” onto existing or unfinished objects.
+
+The patent envisions using AR through “semi-transparent glasses,” but also mentions a “mobile device equipped with a camera,” hinting at potential 3D printing opportunities for using ARKit on an iPhone.
+A researcher at Cornell has recently demonstrated the ability to sketch with AR/VR while 3D printing. Eventually, the human-computer interface could be so seamless that 3D models can be sculpted in real time.
+
+Tomorrow’s R&D team will be exploring AR and VR, and testing how it works in combination with 3D printing, as well as the traditional prototyping stack.
+Once a product design is finalized, the next step is planning how it will be made at production scale. Typically, this requires gathering a web of parts suppliers, basic materials makers, and contract manufacturers to fulfill a large-scale build of the product. But finding suppliers and gaining trust is a difficult and time-consuming process.
+The vacuum maker Dyson, for example, took up to two years to find suppliers for its new push into the auto industry: “Whether you’re a Dyson or a Toyota it takes 18 months to tool for headlights,” a worker on their project reported.
+Assembly lines today are so lean they’re integrating a nearly real-time inflow of parts and assembling them as fast as they arrive. Honda’s UK-based assembly factory, for example, only keeps one hour’s worth of parts ready to go. After Brexit, the company reported longer holdups for incoming parts at the border, and said that each 15 minute delay translates to £850,000 per year.
+We looked at how technology is improving this complicated sourcing process.
+Decentralized manufacturing may be one impending change that helps manufacturers handle demand for parts orders.
+Distributed or decentralized manufacturing employs a network of geographically dispersed facilities that are coordinated with IT. Parts orders, especially for making medium- or small-run items like 3D printed parts, can be fulfilled at scale using distributed manufacturing platforms.
+Companies like Xometry and Maketime offer on-demand additive manufacturing and CNC-milling (a subtractive method that carves an object out of a block), fulfilling parts orders across its networks of workshops.
+Xometry’s site allows users to simply upload a 3D file and get quotes on milling, 3D printing, or even injection molding for parts. The company is also working on CAD integration to simplify the process of ordering. To fulfill all those on-demand orders, the company works with more than 3,000 different materials suppliers. Xometry raised $50M from Dell, BMW, and GE (among others) in 2019.
+
+The similar Amsterdam-based 3D Hubs promises the ability to take a quote on a part and put it into production “in less than 5 minutes.” In 2018, 3D Hubs transitioned from its original business model as a community 3D printer to a focus on high-end plastic, metal, and injected-molding manufacturing.
+
+Xometry and 3D Hubs aren’t alone in offering printing services: UPS is also embracing the movement, offering services for 3D printed plastic parts like nozzles and brackets in 60 locations and using its logistics network to deliver orders globally.
+As mass-customization takes off, so could the reliance on decentralized network of parts suppliers.
+Enterprise resource planning (ERP) software tracks resource allocation from raw material procurement all the way through customer relationship management (CRM).
+Yet a manufacturing business can have so many disparate ERP systems and siloed data that, ironically, the ERP “stack” (which is intended to simplify things) can itself become a tangled mess of cobbled-together software.
+In fact, a 2017 PwC report found that many large industrial manufacturers have as many as 100 different ERP systems.
+Blockchain and distributed ledger technologies (DLT) projects aim to unite data from a company’s various processes and stakeholders into a universal data structure. Many corporate giants are piloting blockchain projects, often specifically aiming to reduce the complexity and disparities of their siloed databases.
+
+In 2017, British Airways tested blockchain technology to maintain a unified database of information on flights and stop conflicting flight information from appearing at gates, on airport monitors, at airline websites, and in customer apps.
+When it comes to keeping track of the sourcing of parts and raw materials, blockchain can manage the disparate inflows to a factory. With blockchain, as products change hands across a supply chain from manufacture to sale, the transactions can be documented on a permanent decentralized record — reducing time delays, added costs, and human errors.
+
+Treum, a project out of the Ethereum-based startup studio Consensys, works on a number of capital-intensive areas that serve manufacturers. And Provenance is building a traceability system for materials and products, enabling businesses to engage consumers at the point of sale with information gathered collaboratively from suppliers all along the supply chain.
+Going forward, we can expect more blockchain projects to build supply chain management (SCM) software, handle machine-to-machine (M2M) communication and payments, and promote cybersecurity by keeping a company’s data footprint smaller.
+Learn about the trends and technologies disrupting advanced manufacturing and what to watch in 2019.
+Industrial downtime is a $647B a year problem, according to the International Society of Automation.
+Presumably, tomorrow’s manufacturing process will eventually look like one huge, self-sustaining cyber-physical organism that only intermittently requires human intervention. But across sectors, the manufacturing process has a long way to go before we get there.
+According to lean manufacturing metrics (measured by overall equipment effectiveness, or OEE), world-class manufacturing sites are working at 85% of their theoretical capacity. Yet the average factory is only at about 60%, meaning there’s vast room for improvement in terms of how activities are streamlined.
+
+Industry 4.0’s maturation over the next two decades will first require basic digitization.
+Initially, we’ll see a wave of machines become more digital-friendly. Later, that digitization could translate into predictive maintenance and true predictive intelligence.
+Large capital goods have evolved to a “power by the hour” business model that guarantees uptime. Power by the hour (or performance-based contracting) is now fairly common in the manufacturing world, especially in mission-critical areas like semiconductors, aerospace, and defense.
+The idea dates back to the 1960s, when jet engine manufacturers like GE Aviation, Rolls Royce, and Pratt & Whitney began selling “thrust hours,” as opposed to one-off engine sales. This allows engine makers to escape the commodity trap and to focus on high-margin maintenance and digital platforms. Nowadays, GE is incentivized to track every detail of its engine, because it only gets paid if the engine is working properly.
+Despite a guarantee of uptime, a machine’s owner is responsible for optimizing usage (just like airlines that buy jet engines still need to put them to good use). In short, factory owners still “own” the output risk between the chain of machines.
+
+Without digitizing every step, efficiency is being left on the table. Yet there are serious barriers for manufacturers to take on the new burden of analytics.
+Shop floors typically contain old machines that still have decades of production left in them. In addition to significant cost, sensors tracking temperature and vibration aren’t made with a typical machine in mind, lengthening the calibration period and efficacy.
+When Harley-Davidson’s manufacturing plant went through an IIoT sensor retrofit, Mike Fisher, a general manager at the company, said sensors “make the equipment more complicated, and they are themselves complicated. But with the complexity comes opportunity.”
+
+To put it simply, operational technology (or OT) is similar to traditional IT, but tailored for the “uncarpeted areas.” Where the typical IT stack includes desktops, laptops, and connectivity for knowledge work and proprietary data, OT manages the direct control or monitoring of physical devices.
+For manufacturers, the OT stack typically includes:
+In a way, IT and OT are two sides to the same tech stack token, and as manufacturing gets better digitized, the boundaries will continue to blur.
+
+Today, the “brain” for most industrial machines is in the programmable logic controller (PLC), which are ruggedized computers. Industrial giants like Siemens, ABB, Schneider, and Rockwell Automation all offer high-priced PLCs, but these can be unnecessarily expensive for smaller manufacturing firms.
+This has created an opportunity for startups like Oden Technologies to bring off-the-shelf computing hardware that can plug into most machines directly, or integrate existing PLCs. This, in turn, allows small- and medium-sized businesses to be leaner and analyze their efficiency in real time.
+As digitization becomes ubiquitous, the next wave in tech efficiency improvements will be about predictive analytics. Today’s narrative around the Internet of Things has suggested that everything — every conveyor and robotic actuator — will have a sensor, but not all factory functions are of equal value.
+
+Slapping cheap IoT sensors on everything isn’t a cure-all, and it’s entirely possible that more value gets created from a smaller number of more specialized, highly accurate IoT sensors. Augury, for example, uses AI-equipped sensors to listen to machines and predict failure.
+Cost-conscious factory owners will recognize that highly accurate sensors will deliver greater ROI than needless IoT.
+Computing done at the “edge,” or closer to the sensor, is a new trend within IIoT architecture.
+Drafting on innovations in AI, and smarter hardware, Peter Levine of a16z anticipates an end to cloud computing for AVs, drones, and advanced IoT objects.
+Connected machines in future factories should be no different.
+Edge computing offers significant benefits to manufacturers, including:
+Companies like Saguna Networks specialize in edge computing (close to the point of collection), whereas a company like Foghorn Systems does fog computing (think a lower-hanging cloud that’s done on-site like a LAN). Both methods allow mission-critical devices to operate safely without the latency of transmitting all data to a cloud.
+
+In the near future, advances in AI and hardware will allow IoT as we know it to be nearly independent of centralized clouds.
+This is important because in the short term, it means that rural factories don’t need to send 10,000 machine messages relaying “I’m OK,” which expends costly bandwidth and compute. Instead, they can just send anomalies to a centralized server and mostly handle the decision-making locally.
+Additionally, cloud computing latency has drastic downsides in manufacturing. Mission critical-systems such as connected factories can’t afford the delay of sending packets to off-site cloud databases. Cutting power to a machine split-seconds too late is the difference between avoiding and incurring physical damage.
+And in the longer term, edge computing lays down the rails for the autonomous factory. The AI software underpinning the edge will be the infrastructure that allows factory machines to make decisions independently.
+In sum, devices that leverage greater computing at the edge of the network are poised to usher in a new, decentralized wave of factory devices.
+One paradox of IIoT is that factories bear significant downside risk, yet are barely investing in protection. While research has shown that cyber espionage affects manufacturing more than any other industry, and 81% of organizations are concerned about the security risks of factory floor IoT, only 37% of corporations believe their internal cybersecurity awareness programs are effective. Further, 48% of manufacturers have suffered some kind of cybersecurity incident.
+Cyber attacks can be devastating to heavy industry, where cyber-physical systems can be compromised. The WannaCry ransomware attack caused shutdowns at the Renault-Nissan auto plants in Europe. In 2019, another ransomware attack on the Norwegian aluminum producer Norsk Hydro resulted in estimated losses of $41M of lost production capacity.
+Consequently, critical infrastructure is a growing segment within cybersecurity, and many startups like Bayshore Networks are offering IoT gateways (which bridge the disparate protocols for connected sensors) to allow manufacturers across many verticals to monitor their IIoT networks. Other gateway-based security companies like Xage are even employing blockchain’s tamperproof ledgers so industrial sensors can share data securely.
+81% of organizations are concerned about the security risks of factory floor IoT, yet only 37% of corporations believe their internal cybersecurity awareness programs are effective.
+Similarly, adding connected IoT objects and Industrial Control System (ICS) sensors has opened up new vulnerabilities at the endpoint.
+Companies like Rubicon Labs and Mocana are developing secure communication products at the IP and the device level.
+Mocana sells end-to-end cybersecurity suites specialized for IoT devices, with customers like Samsung, Verizon, Xerox and Panasonic. In 2019, the company raised $15M to expand into visibility and analytics tools.
+Additionally, several of the most active enterprise cybersecurity investors are corporates with interests in OT computing. The venture arms of Dell (which makes industrial IoT gateways), as well as Google, GE, Samsung, and Intel are among the most active in this space.
+Managing the ICS and IIoT systems securely will continue to be a critical area for investment, especially as hack after hack proves OT’s vulnerability.
+In a 2017 write-up about furniture maker Steelcase’s production line, humans were described as being solely present to guide automation technology.
+Steelcase’s “vision tables,” which are computerized workstations that dictate step-by-step instructions, eliminate human error in assembling furniture. Using sound cues and overhead scanners to track assembly, the system won’t let workers proceed if a step is done incorrectly. Scanners also allow off-site operations engineers to analyze progress in real time.
+The New Yorker wrote about Steelcase’s labor management, “A decade ago, industrial robots assisted workers in their tasks. Now workers — those who remain — assist the robots in theirs.”
+What manufacturing looks like has changed drastically in a short time. As a retired Siemens executive recently said, “People on the plant floor need to be much more skilled than they were in the past. There are no jobs for high school graduates at Siemens today.”
+But better digitization and cyber-physical technologies are all augmenting the efficiency and manpower available to the workers. Here’s how emerging technology like augmented reality (AR), wearables, and exosuits are fitting in.
+
+Augmented reality will be able to boost the skills of industrial worker.
+In addition to being a hands-free “browser” that can communicate factory performance indicators and assign work, AR can analyze complicated machine environments and use computer vision to map out a machine’s parts, like a real-time visual manual. This makes highly skilled labor like field service a “downloadable” skill (in a manner not unlike The Matrix).
+
+Daqri and Atheer are well-funded headset makers that focus on industrial settings. Upskill‘s Skylight platform (below) makes AR for the industrial workforce using Google Glass, Vuzix, ODG, and Realwear headsets. The company has raised nearly $50M from the corporate venture arms of Boeing and GE, among other investors.
+Many AR makers envision the tech working like a handsfree “internet browser” that allows workers to see real-time stats of relevant information. Realwear‘s wearable display doesn’t aspire to true augmented reality like a Daqri headset, but even a small display in the corner of the eye is fairly robust.
+
+Others like Scope AR do similar work in field service using mobile and iPad cameras, employing AR to highlight parts on industrial equipment and connecting to support experts in real time. This saves on the travel costs of flying out people to repair broken equipment.
+Re’flekt, an enterprise AR developer from Munich, has built a platform for turning CAD data into augmented reality applications for maintenance and training. Jaguar Land Rover used REFLEKT ONE to build a training app that would allow employees to acquire “X-ray vision” into a car and let them identify the exact component or repair needed.
+As the maxim goes, “what gets measured gets managed,” and in an area where robots are a constant competitive pressure, manufacturing organizations will invest in technologies that digitize human efforts down to each movement.
+Exoskeleton technology is finally becoming a reality on factory floors, which could drastically reduce the physical toll of repetitive work. Startups here are making wearable high-tech gear that bear the load alongside a worker’s limbs and back.
+
+Ekso Bionics, seen below, is piloting its EksoVest suit at Ford Motor Company’s Michigan assembly plants, and workers using the suit have reported less neck stress in their daily demands. The EksoVest reduces wear from repetitive motion and, unlike some competing products, provides lift assistance without batteries or robotics. Ekso’s CTO has said the long-term strategy is to get workers accustomed to the technology before eventually moving into powered exoskeletons.
+
+Sarcos is another well-known exosuit maker, which has raised from corporates including Schlumberger, Caterpillar, and Microsoft and GE’s venture arms. Sarcos is more strictly focused on remote controlled robotics and powered exoskeletons. Its robotic exoskeleton, which a worker can put on or take off in 30 seconds, can help a user lift and put down 200 lbs repeatedly for an up to eight-hour work session. In 2018, Delta became one of the initial members of Sarcos’s Exoskeleton Technical Advisory Group (X-TAG) alongside Bechtel and BMW.
+In similar territory is Strong Arm Technologies, which makes posture-measuring and lift-assisting wearables. Strong Arm touts predictive power to intervene before risk of injury or incident, and is positioned as a labor-focused risk management platform.
+Where humans are still needed for some dirty and dangerous tasks, wearables and exoskeletons will augment human’s ability to do work while also promoting safety.
+Automation is coming for dirty, dull, and dangerous jobs first.
+Already, many human jobs within the mass-production assembly line have been crowded out by automation. Cyber-physical systems like industrial robotics and 3D printing are increasingly common in the modern factory. Robots have gotten cheaper, more accurate, safer, and more prevalent alongside humans.
+Consumer tastes have also broadened, and manufacturers are trying to keep up with increasing demands for customization and variety.
+Visions for Industry 4.0 involve a completely intelligent factory where networked machines and products communicate through IoT technology, and not only prototype and assemble a specific series of products, but also iterate on those products based on consumer feedback and predictive information.
+Before we reach a world where humans are largely uninvolved with manufacturing, modular design can help existing factories become more flexible.
+
+Modularity allows the factory to be more streamlined for customization, as opposed to the uniformity that’s traditional for the assembly line. Modularity could come in the form of smaller parts, or modules, that go into a more customizable product. Or it could be equipment, such as swappable end-effectors on robots and machines, allowing for a greater variety of machining.
+Presently, mass-production is already refashioning itself to handle consumer demand for greater customization and variety. 90% of automakers in a 2016 BCG survey said they expect a modular line setup will be relevant in final assembly by 2030. Modular equipment will allow more models to come off the same lines.
+
+Startups are capitalizing on the push toward modular parts.
+Seed-stage company Vention makes custom industrial equipment on-demand. Choosing from Vention’s modular parts, all a firm needs to do is upload a CAD design of the equipment they want, and then wait 3 days to be sent specialized tooling or robot equipment. Many existing factories have odd jobs that can be done by a simple cobot (collaborative robot) arm or custom machine, and these solutions will gain momentum as factories everywhere search for ways to improve efficiency.
+Modular production will impact any sector offering increased product customization. Personalized medicine, for example, is driving demand for smaller and more targeted batches. In pharmaceutical manufacturing, modularity allows processors to produce a variety of products, with faster changeovers.
+Learn about the trends and technologies disrupting advanced manufacturing and what to watch in 2019.
+Industrial robotics are responsible for eroding manufacturing jobs, which have been on the decline for decades. As a report by Bank of America Merrill Lynch explains: “long robots, short humans.”
+But the latest wave of robotics seems to be augmenting what a human worker can accomplish.
+Cobots (collaborative robots) are programmable through assisted movement. They “learn” by first being moved manually and then copying the movement moving forward. These robots are considered collaborative because they can work alongside humans.
+
+Whether these are truly collaborative or rendering human labor redundant remains to be seen. After a Nissan plant in Tennessee added autonomous guided vehicles, no material handlers were laid off with the increased productivity. European aircraft manufacturer Airbus also uses a mobile robot, which works alongside humans to drill thousands of holes into passenger jets.
+While even the best robots still have limitations, economists fear that automation will eventually lead to a drastic restructuring of labor.
+
+Due to rising labor costs worldwide, robotics are presently causing a new wave of re-shoring — the return of manufacturing to the United States.
+Manufacturing jobs in the US have been increasing since 2011. 60% of those came from reshoring of jobs previously located in China. And in Q1‘17, North American firms bought 32% more robots year over year.
+A majority of US manufacturers, in a survey conducted by BCG, said that lower automation costs have made the US more competitive.
+
+Robotics have become invaluable for monotonous jobs such as packaging, sorting, lifting repeatedly. Cobot manufacturer Universal Robots says some of its robot arms pay for themselves in 195 days on average. As a whole, the category of collaborative robots are priced on average at $24,000 apiece.
+We’ve previously identified more than 80 robotics startups, but for heavy-duty machining, significant market share is taken by big industrials players like ABB, Mitsubishi, Fanuc, and Yaskawa.
+
+In the near term, the reprogrammable nature of cobots will allow manufacturing firms to become more customized and work in parallel with existing equipment and employees. On a longer time horizon, however, robotics will be the engine for moving towards “lights-out” manufacturing.
+For certain mass-produced items, 3D printing will never beat the economies of scale seen in injection molding. But for smaller runs, fulfillment using additive manufacturing will make sense.
+Using metal additive manufacturing for one-third of components, GE made an engine that burns 20% less fuel than previous designs. As of May 2019, GE’s test fleet using this new Catalyst engine has simulated the equivalent of three years of field operation.
+
+Manufacturers will increasingly turn to 3D printing as mass-customization takes off within certain consumer products.
+Shoes have become one popular use case to watch. For example, Adidas has partnered with Carbon to mass-print custom athletic shoes. Additionally, other 3D printing services companies like Voxel8 and Wiiv have positioned themselves specifically for the shoe use case.
+
+Just a few years from now, it may be more commonplace to see mass-customized parts in consumer electronics, apparel, and other accessories — all brought to you by 3D printing. Additionally, if rocket-printing startup Relativity Space is any indication, the technology will also be applied to building large-scale industrial print jobs.
+Industrial 3D printing is the hottest segment within the broader space, and many startups are aiming to deliver advanced materials that include carbon fiber or other metals with exotic properties.
+As the factory gets digitized, quality assurance will become increasingly embedded in the organization’s codebase. Machine learning-powered data platforms like Fero, Sight Machine, and Uptake, among a host of others, will be able codify lean manufacturing principles into systems’ inner workings.
+Computer vision and blockchain technologies are already on the scene, and offer some compelling alternative methods for tracking quality.
+In mass production, checking whether every product is to specification is a very dull job that is limited by human fallibility. In contrast, future factories will employ machine vision to scan for imperfections that the human eye might miss.
+
+Venture-backed startups like Instrumental are training AI to spot manufacturing issues. And famed AI researcher Andrew Ng has a manufacturing-focused startup called Landing.ai that is already working with Foxconn, an electronics contract manufacturer. (Below is a view inside Landing.ai’s module for identifying defects.)
+
+Many imperfections in electronics aren’t even visible to the human eye. Being able to instantaneously identify and categorize flaws will automate quality control, making factories more adaptive.
+
+In August 2017, Walmart, Kroger, Nestle, and Unilever, among others, partnered with IBM to use blockchain to improve food safety through enhanced supply chain tracking. Walmart has been working with IBM since 2016, and said that blockchain technology helped reduce the time required to track mango shipments from 7 days to 2.2 seconds.
+With 9 other big food suppliers joining the IBM project, including Albertson’s (the second-largest global supermarket by sales) in 2019, the food industry — where collaboration is rare — could also be better aligned for safety recalls.
+Similarly, factories employing blockchains or distributed ledgers could be better positioned in the event of recall. In factories where food or automobiles are processed, a single system for managing recalls could more swiftly figure out the origin of faulty parts or contaminated batches, possibly saving lives and money.
+Lights-out warehouses may come even faster than lights-out factories.
+With the rise of e-commerce, demand for warehouse space has exploded. Last year, the average warehouse ceiling height was up 21% compared to 2001, and spending for new warehouse construction hit a peak in October 2017, with $2.3B spent on construction in that month alone.
+Through the last two decades, the average rental area of warehouses has grown by 60% across the US.
+ 
+
+Amazon’s historic $775M acquisition of Kiva Systems is said to have set off an arms race among robotics makers. Riding the e-commerce wave and the industry-wide pressure to deliver orders on time, we’ve witnessed an explosion of robotics startups focused on making fulfillment more efficient. Today, Amazon itself has 200,000 robotic units installed at distribution centers worldwide, including 800 complex, large-scale Pegasus robots.
+Lately, other Kiva-like companies, including Fetch Robotics and GreyOrange, are focusing on other areas of warehouse automation, such as picking and palletizing.
+Some startups such as Ready Robotics and Locus have applied the classic robotic arm to package e-commerce orders, though their collaborative nature makes them suited for a number of industrial tasks. We’ve previously looked at industrial robotics companies that could be targets for large corporates.
+6 River Systems raised $46M for its treadmill-shaped warehouse cobot, “Chuck,” which helps warehouse employees with daily tasks.
+Some of the biggest names in robotics are turning their attention to warehouse logistics too. In April 2019, the Massachusetts-based engineering and robotics design firm Boston Dynamics acquired industrial machine vision startup Kinema Systems as part of its plans to expand into warehouse robotics.
+
+Manufacturers and hardware-focused investors will continue to hunt for the next robotics maker that’s 10x better than the status quo. And the economics of cheaper and more agile robots may mean we’ll see more robots alongside humans in the short term.
+As computer vision melds with enterprise resource planning, fewer people and clipboards will be needed in sorting, scanning, and spotting defects.
+Aquifi, for example, uses computer vision inside fixed IIoT and handheld scanners. Machine vision can measure products dimensions, count the number of boxes in a pallet, and inspect the quality of boxes. Presently, this is often done with clipboards, eyeballing, and intermittent scanning.
+
+3D Infotech uses another kind of machine vision technology called Universal Metrology Automation (UMA), which uses blue light or laser scanning to measure surfaces at high speeds.
+Vision will be increasingly crucial for IIoT to “abstract away” a real-time picture of what’s happening inside a warehouse.
+Once the product is packaged and palletized, getting it out the door efficiently is a daunting task. With thousands of SKU numbers and orders to manage, the complexity can be astounding — and enterprise resource planning (ERP) software has proliferated to handle it.
+But there’s still room for IoT and blockchain to get even more granular with real-time supply chains.
+In general, there is poor awareness about where items are in real time throughout the supply chain.
+The fleet telematics field saw several large exits in recent years, with Verizon acquiring both FleetMatics and Telogis. IoT and software for shipments will only grow more important as supply chains decentralize and get automated.
+Farther out, the advent of autonomous trucks could mean that autonomous systems will deliver, depalletize, and charge upon receipt of a Bill of Lading. This will bring greener, more efficient movement, as well as more simplified accounting.
+
+Uber had a highly anticipated autonomous trucking project, but it was shuttered in July 2018 following concerns regarding the founder’s relationship with Waymo.
+Kodiak, founded by an ex-Waymo engineer and Otto co-founder, raised $40M in August 2018 for its vision of autonomous trucking. The company has since grown to more two dozen employees.
+Peloton Technology, founded in 2011, is working on a platooning model of autonomous trucking. Instead of individual trucks, Peloton is building a system that allows vehicles to communicate with one another, braking and accelerating in concert. Daimler has moved away from platooning, however, as practical issues with the technology (like ensuring multiple trucks want to travel to the same place in the first place) have emerged.
+Also in 2018, Starsky Robotics (below) raised nearly $20M from Y Combinator, Sam Altman, and Data Collective, among others, specifically for long-haul trucking.
+Daimler first announced it was working on an autonomous big rig in 2015. In January 2019, Daimler revealed its semi-autonomous big rig codenamed Cascadia. Daimler plans to make it available for sale by the end of the year.
+
+As mentioned above, a number of DLT pilots and blockchain startups are trying to put supply chain management software into a distributed ledger.
+The willingness to explore these technologies indicates digitization here is long overdue. The highly fragmented nature of supply chains is a fitting use case for decentralized technologies and could be part of a larger trend for eliminating the inefficiencies of global commerce.
+Shipping giant Maersk, for example, is working on a joint venture with IBM is aiming to use a blockchain network to help shippers, ports, customs offices, and banks in global supply chains track freight. Maersk’s goal is to replace related paperwork with tamper-resistant digital records, though the partnership has run into problems attracting carriers for the program. Peter Wolf, general manager of CMA CGM, told “Shipping Watch” that only a joint industry standard could succeed — and that a Maersk-IBM program would only ever work for Maersk.
+Meanwhile Pemex, the Mexican state-owned petroleum company, is assisting Petroteq in developing oil-specific supply chain management software. The Petroteq project — an enterprise-grade, blockchain-based platform called PetroBLOQ — will enable oil and gas companies to conduct global transactions. In August 2018, Petroteq began working with a blockchain engineering firm called MetzOhanian to develop applications for PetroBLOQ.
+In the future, manufacturers will explore decentralized technologies to make their organizations more autonomous and their belongings (coming or going) more digitized in real-time. Blockchain not only has the promise of simplifying SCM, but also could make payments more frictionless.
+
+There are signs that supply chain hype around blockchain may be past its zenith. According to a Gartner manufacturer survey, only 9% of supply chain leaders have invested in blockchain, and only 19% rank it as an important technology for their business, owing mainly to existing blockchain technology’s slow progress towards its promised utility.
+Manufacturing is becoming increasingly more efficient, customized, modular, and automated. But factories remain in flux. Manufacturers are known to be slow adopters of technology, and many may resist making new investments. But as digitization becomes the new standard in industry, competitive pressure will escalate the inventive to evolve.
+The most powerful levers manufacturers can pull will come in the form of robotics, AI, and basic IoT digitization. Richer data and smart robotics will maximize a factory’s output, while minimizing cost and defects. At the unmanned factory in Dongguan, employing robotics dropped the defect rate from 25% to less than 5%.
+Meanwhile, as cutting-edge categories like blockchain and AR are being piloted in industrial settings, manufacturing could eventually be taken to unprecedented levels of frictionless production and worker augmentation.
+In the words of Henry Ford: “If you always do what you always did, you’ll always get what you always got.” To reach its full potential, the manufacturing industry will need to continue to embrace new technology.
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13114322/Lightsout2-1024x645.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05171259/180405-Future-Factory-V4-1024x809.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/26173710/Manufacturing_RnD-1024x641.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/26175151/Sculpteo_3DP-1024x577.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13121541/synth2-1024x256.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13121825/Materials-1024x241.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14110122/Autodesk-1024x474.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13122905/Apple-Patents-1024x307.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13123121/AR-irt-1024x555.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14111350/xometry-2-1024x474.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/25160621/Screen-Shot-2019-06-20-at-3.50.18-PM-1024x520.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05171352/Blockchain2-1024x595.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14113602/Supply-1024x559.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13180313/OEE-1024x609.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13165953/Together-1024x273.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/06170159/IoT-Sensors-04.06.8-v2-1024x604.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/08002731/OT-spotlight-1024x572.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05152647/Predictive-Machine-Analytics1-1024x595.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/30155903/edge-1.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14135542/daqri2-1024x523.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05171541/I-AR-1024x595.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/03174517/Upskill-1024x533.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05152702/Wearables1-1024x595.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14141004/Ekso-1024x531.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05152639/Modular-1024x595.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14141134/Vention-1024x441.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05152600/Cobots1-1024x595.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/04115704/Robots_slide-1024x578.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14141821/robots2-1024x396.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/15191614/robots3-1024x263.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14142632/Voodoo3-1024x533.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/08002855/Shoes2-1024x577.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05152608/Comp-Vis-1024x595.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14143632/Landing2-1024x751.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/02/22141110/dole21-1024x476.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14144256/warehouses2-1024x488.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/25161504/Screen-Shot-2019-06-25-at-4.14.39-PM-1024x571.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14144538/aquifi2-1024x464.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05152654/Trucks-1024x595.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14144717/Starsky-1024x515.png']
+1	"
+
+					What Is Facebook’s End Game With Project Libra?                
+"	"
+			June 21, 2019        "	https://www.cbinsights.com/research/crypto-spotlight-facebook-libra-stablecoin/	"The social networking giant made its first splash into blockchain this week. We dig into the partners, technical specifics, and implications for Project Libra.
+After much hype and speculation, Facebook has finally released the details of its cryptocurrency project, which is officially called Libra.
+In scope, the project seems to more resemble a Venmo or PayPal than a new Bitcoin. Its mission: to be “a simple global currency and infrastructure that empowers billions of people.”
+Want the full post? Become a CB Insights customer.
+If you’re already a customer, log in here.
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/13095255/exp_core_non-clients.png']
+2	"
+
+					Banking Is Only The Beginning: 55 Big Industries Blockchain Could Transform                
+"	"
+			June 11, 2019        "	https://www.cbinsights.com/research/industries-disrupted-blockchain/	"Banking isn't the only industry that could be affected by blockchain tech. Law enforcement, ride-hailing, and many other sectors could also have blockchain in their future.
+What began as the basis of cryptocurrencies such as Bitcoin, blockchain technology — essentially a virtual ledger capable of recording and verifying a high volume of digital transactions — is now spreading across a wave of industries.
+Blockchain tech has gone far beyond its beginnings in banking and cryptocurrency: In 2019, businesses are expected to spend $2.9B on the technology, up almost 90% from 2018, according to IDC. Industries from insurance to gaming to cannabis are starting to see blockchain applications.
+Bitcoin’s popularity helped demonstrate blockchain’s application in finance, but entrepreneurs have come to believe blockchain could transform many more industries. Ultimately, the use cases for a transparent, verifiable register of transaction data are practically endless — especially since blockchain operates through a decentralized platform requiring no central supervision, making it resistant to fraud.
+As companies use blockchain to drive greater transparency and veracity across the digital information ecosystem, they’re boosting awareness of the technology in sectors ranging from infrastructure to public policy. Here are the latest innovative ways companies are harnessing the power of global blockchain.
+
+Banking is just the beginning. From a macro perspective, banks serve as the critical storehouses and transfer hubs of value. As a digitized, secure, and tamper-proof ledger, blockchain could serve the same function, injecting enhanced accuracy and information-sharing into the financial services ecosystem.
+Swiss bank UBS and UK-based Barclays are both experimenting with blockchain as a way to expedite back office functions and settlement, which some in the banking industry say could cut up to $20B in middleman costs.
+In May 2019, Barclays invested in Crowdz, a blockchain-based B2B payments startup that helps companies collect payments and automate digital invoices.
+Blockchain is also growing as a solution aimed at reducing the cost of cross-border transactions, which accounted for 27% of global transaction revenue in 2017, according to McKinsey. Blockchain company Ripple has partnered with financial institutions like Santander and Western Union with the goal of improving the efficiency of cross-border transactions.
+Blockchain startup BanQu is working with AB InBev to facilitate payments to cassava farmers in Zambia. BanQu’s platform tracks the farmers’ products through the supply chain and then provides digital payments to farmers via their mobile phones, even if they don’t have bank accounts.
+JP Morgan is also entering the blockchain space with the JPM Coin, which it intends to use to facilitate transactions between institutional accounts.
+Encrypted messaging app Telegram raised $1.7B from private investors before canceling the public sale of its planned $1.2B initial coin offering (ICO). Around a year later, the company launched the test client for its blockchain-based TON (Telegram Open Network). Telegraph’s TON Labs has also partnered with Wirecard, a European financial services entity, to build a digital banking platform.
+Chat platform Kik has raised over $100M via an ICO for its in-app currency. And Line, Japan’s most popular message service, is reportedly planning to expand into cryptocurrency trading.
+
+Backed by names including First Round Capital and Union Square Ventures, Numerai is taking the hedge fund model — employing a bunch of traders and quants — and decentralizing it. Numerai sends its thousands of disparately located quants encrypted datasets and asks them to build predictive models, and the best contributors are rewarded with Numerai’s token called Numeraire. Then, Numerai takes the strategy and creates a meta-model to make trades. In some ways it’s a blockchain-based spin on Quantopian‘s model for rewarding data scientists, except it’s less a competition and more an invisible collaboration.
+
+Elections require authentication of voters’ identity, secure record keeping to track votes, and trusted tallies to determine the winner. In the future, blockchain tools could serve as a foundational infrastructure for casting, tracking, and counting votes — potentially eliminating the need for recounts by taking voter fraud and foul play off the table.
+By capturing votes as transactions through blockchain, governments and voters would have a verifiable audit trail, ensuring no votes are changed or removed and no illegitimate votes are added. One blockchain voting startup, Follow My Vote, has released the alpha version of its stake-weighted end-to-end blockchain voting solution.
+Agora is an organization which has developed a blockchain-based way to cast a vote digitally. The technology aims to prevent election fraud by using a custom blockchain record. The platform was tested in a limited capacity during elections in Sierra Leone in 2018 and showed results close to those from official tallies.
+
+In the current web, it’s difficult to establish your true identity, and your personal information lives on company servers for apps you use with little inter-operability (even using Facebook as a log-in only gets you so far). Platforms like Blockstack and uPort think there’s a future where your identity can be easily carried with you around the internet. On Blockstack, for instance, a user will access apps atop decentralized networks, and have perfect portability of their data.
+
+The current internet architecture has proven easy to hack, especially when it comes to IoT devices. As critical infrastructure like power plants and transportation all become equipped with connected sensors, the risks to civil society as we know it are great. Companies like Xage, for example, are employing blockchain’s tamperproof ledgers to sharing security data across industrial device networks.
+Though blockchain’s ledger is public, its data communications are sent and verified using advanced cryptographic techniques — ensuring that data is coming from correct sources and that nothing is intercepted in the interim. Thus, if blockchain is more widely adopted, the probability of hacking could go down, as the cyberprotections of the technology are more robust than legacy systems.
+Other potential applications include using blockchain to provide massive scale data authentication. For example, using its blockchain-enabled KSI (Keyless Signature Infrastructure), cybersecurity startup Guardtime tags and verifies data transactions.
+
+Ride apps like Uber and Lyft represent the opposite of decentralization, since they essentially operate as dispatching hubs and use algorithms to control their fleets of drivers (and dictate what they charge). Blockchain could inject new options into that dynamic: with a distributed ledger, drivers and riders could create a more user-driven, value-oriented marketplace.
+Startup Arcade City, for example, facilitates all transactions through a blockchain system. Arcade City operates similarly to other ride-sharing companies but allows drivers to establish their rates (taking a percentage of rider fares) with the blockchain logging all interactions.
+This allows Arcade City to appeal to professional drivers, who would rather build up their own transportation businesses than be controlled from a corporate headquarters: drivers on Arcade City are free to set their own rates, build their own recurring customer base, and offer additional services like deliveries or roadside assistance.
+
+ 
+The internet as we know it emerged with ad hoc solutions for advertising. In aggregate, ads add tons of mobile data usage to loading web pages, and both advertisers and consumers suffer from any lack of protocols.
+Brave recently ICOed its Basic Attention Token (BAT) to compensate advertisers and users. Instead of a middleman like Google or Facebook’s ad arm, advertisers will list directly onto Brave’s blockchain-based browser. Users who opt in receive fewer, but better targeted ads without the malware. And advertisers get better data on their spending.
+Blockstack works a little differently, aiming to keep people who are browsing free from unwanted targeted ads. Essentially, its approach seeks to remove the person’s identity from their activity.
+Snovio is another option that lets people sell their personal data and gain SNOV tokens.
+
+One way blockchain reduces conventional cybersecurity risk is by simply removing the need for human intermediaries — thus lessening the threat of hacking, corruption, or human error.
+Ironically, some of blockchain’s most successful companies are fairly centralized middlemen, and many new projects are “dogfooding” the buying and selling of blockchain-based currency by putting the whole exchange on a blockchain.
+One high profile project here is Enigma, which claims MIT and Flybridge Capital as supporters. Enigma is the developer of Catalyst, an off-chain decentralized exchange and investment platform that works without the need of a third party to act as clearing house.
+Another high-profile decentralized exchange is Ethererum-based 0x.
+
+By nature, academic credentials must be universally recognized and verifiable. In both the primary/secondary schooling and university environments, verifying academic credentials remains largely a manual process (heavy on paper documentation and case-by-case checking).
+Deploying blockchain solutions in education could streamline verification procedures, thereby reducing fraudulent claims of un-earned educational credits.
+Sony Global Education, for example, has developed a new educational platform in partnership with IBM that uses blockchain to secure and share student records.
+Learning Machine, a 10-year-old software startup, has collaborated with MIT Media Lab to launch of the Blockcerts toolset, which provides an open infrastructure for academic credentials on the blockchain.
+Education organization KnowledgeWorks released a report of how blockchain could work in primary k-12 schools. The report described how blockchain technology could possibly be used to simplify administrative tasks, decentralize learning materials to make them more accessible, create a network for parents to share experiences, and store learning-related data.
+
+The experience of leasing, buying, or selling a vehicle is a notoriously fragmented process for stakeholders on all sides of a transaction, but the blockchain could change that.
+In 2015, Visa partnered with transaction management startup DocuSign on a proof-of-concept project that used blockchain to streamline car leasing — transforming it into a “click, sign, and drive” process.
+With the Visa-DocuSign tool, prospective customers choose the car they want to lease and the transaction is entered on the blockchain’s public ledger. Then, from the driver’s seat, the customer signs a lease agreement and an insurance policy, and the blockchain is updated with that information.
+If the technology were to be implemented in practice, it’s not a stretch to imagine that a process of this sort might be developed for car sales and registration as well.
+
+IBM and Samsung have been working on a concept known as ADEPT (Autonomous Decentralized Peer-to-Peer Telemetry), which uses blockchain-type technology to form the backbone of a decentralized network of IoT devices. With ADEPT, a blockchain would serve as a public ledger for a massive amount of devices, which would no longer need a central hub to mediate communication between them.
+Without a central control system to identify one another, the devices would be able to communicate with one another autonomously to manage software updates, bugs, or energy management.
+Some startups are looking to build blockchain technology into an IoT platform as well. For example, Filament (formerly Pinocchio) provides a decentralized network for IoT sensors to communicate with each other.
+By encrypting down to the hardware level and leveraging blockchain technology, Filament’s decentralized network stack allows any device to connect, interact, and transact independent of a central authority.
+
+Enterprises that offer cloud storage often secure customers’ data in a centralized server, which can mean increased network vulnerability from attacks by hackers. Blockchain cloud storage solutions allow storage to be decentralized — and therefore less prone to attacks that can cause systemic damage and widespread data loss.
+Dubbed the “Airbnb for file storage,” Filecoin is a high-profile crypto project that rewards the hosting of files. This could help create a decentralized version of S3 from Amazon Web Services.
+The company behind it, Protocol Labs, has garnered investment from Union Square Ventures, Naval Ravikant, and The Winklevosses, among a number of prominent names. But Filecoin is just one of many projects in this area, and other token names in storage include Storj and Siacoin.
+Storj offers a blockchain-enabled cloud storage network to improve security and lower the transaction costs of storing information in the cloud. Storj users can also rent out their unused digital storage space in a peer-to-peer manner, potentially creating a new market for crowdsourced cloud storage capacity.
+
+Blockchain-based processing projects like Golem are allowing users to rent out their CPU capacity and be rewarded with tokens. Similarly, Ethereum itself has been informally called the “world’s supercomputer” because of its ability to execute smart contracts and its mining is ASIC resistant (allowing everyday PC owners to compete proportionally with big mining operations).
+Salesforce, which provides cloud solutions for businesses, recently announced Salesforce Blockchain. The product builds on the CRM software Salesforce is known for with smart contracts and blockchain-based data sharing.
+
+As more industries embrace blockchain in a holistic way, the research, analysis, consulting, and forecasting industries could also be shaken up by the technology: with an unshakably accurate transaction record supporting their data analysis, forecasting operations will have a stronger foundation for using machine learning algorithms to cultivate targeted predictions and insights.
+Even now, blockchain is creating new a new “predictions market.” Augur, built on the Ethereum blockchain, allows users to forecast events and be rewarded for predicting them correctly.
+The service remains in beta, but the company says the entire process will be decentralized and will enable users to place bets not only on sports and stocks, but on other topics such as elections and natural disasters.
+
+Entertainment entrepreneurs are turning to the blockchain to make content sharing fairer for creators using smart contracts, whereby the revenue on purchases of creative work can be automatically disseminated according to pre-determined licensing agreements.
+Muzika, a blockchain-based music streaming platform, partnered with Binance, a crypto-exchange network, to try and help independent artists make money from their listeners. Muzika states that it plans to give 90% of revenue to the artists.
+Before pivoting into an entertainment think tank, Mycelia was launched with a focus on producing “intelligent songs” supported by blockchain technology and cryptocurrencies. Ascribe.io, a product of BigchainDB, also works to provide a trackable, verifiable record of ownership between artists and their work.
+British blockchain startup JAAK also has plans to work with music rights holders and other entertainment-industry stakeholders. JAAK, which provides an operating system for content, is developing a platform that allows media owners to convert their repository of media, metadata, and rights into “smart content” that can self-execute licensing transactions on the Ethereum blockchain.
+
+For years companies have worked to ease the process of buying, selling, and trading stocks, and now new blockchain-focused startups are looking to automate and secure the process more efficiently than any past solution.
+For example, Dutch bank ABN AMRO’s investment division is partnering with investment platform BUX to create a blockchain app called STOCKS. The app will keep users’ ABN AMRO money in a blockchain bank account for stock trading. The use of a private blockchain is aimed at saving money for users and the bank.
+TØ.com, a subsidiary of Overstock, wants to enable stock transactions online using blockchain tech. The “t zero” platform integrates cryptographically secure distributed ledgers with existing trading processes to reduce settlement time and costs and increase transparency and auditability.
+Partnerships with existing trading networks and exchanges will help blockchain take off in the space. Blockchain startup Chain (which is also mentioned below) is a leader on that front: the company helped orchestrate a live blockchain integration that successfully connected Nasdaq’s stock exchange and Citi’s banking infrastructure.
+
+Pain points for buying and selling property include a lack of transparency during and after transactions, copious amounts of paperwork, possible fraud, and errors in public records. Blockchain offers a way to reduce the need for paper-based record keeping and speed up transactions — helping stakeholders improve efficiency and reduce transaction costs on all sides of the transaction.
+Real estate blockchain applications can help record, track, and transfer land titles, property deeds, liens, and more, and can help ensure that all documents are accurate and verifiable.
+Propy is seeking to offer secure home buying through a blockchain-based smart contract platform. All documents are signed and securely stored online, while deeds and other contracts are recorded using blockchain technology as well as on paper.
+Tech startup Ubitquity offers a Software-as-a-Service (SaaS) blockchain platform for financial, title, and mortgage companies. The company is currently working with Land Records Bureau in Brazil, among other stealth clients, to input property information and record documents through the blockchain.
+
+Companies like AirBnB, Tujia, Wimdu, and others provide a way for people to temporarily exchange assets — including private homes — for monetary value. The problem is that in the absence of a public record, it has been nearly impossible to insure assets on these platforms.
+Together with blockchain startup Stratumn, which helps developers build trustworthy applications enabled by Blockchain features, professional services firm Deloitte and payment services provider Lemon Way recently unveiled a blockchain-enabled solution called LenderBot.
+LenderBot is a micro-insurance proof of concept for the sharing economy that demonstrates the potential for blockchain applications and services in the industry. LenderBot, which allows people to enroll in customized micro-insurance by chatting through Facebook Messenger, enables blockchain to serve as the third-party in the contract between individuals as they exchange high-value items through the sharing economy.
+In the industry as a whole, interest in blockchain is booming. A recent report from Aite Group interviewed 40 blockchain professionals from a number of major insurance companies, reflecting the growing demand for insurance employees dedicated to understanding and implementing blockchain.
+
+Healthcare institutions suffer from an inability to securely share data across platforms. Better data collaboration between providers could ultimately mean higher probability of accurate diagnoses, higher likelihood of effective treatments, and the overall increased ability of healthcare systems to deliver cost-effective care.
+Use of blockchain technology could allow hospitals, payers, and other parties in the healthcare value chain to share access to their networks without compromising data security and integrity.
+To that end, startup Gem has launched the Gem Health Network, a blockchain network for the global companies across the continuum of healthcare. (Gem is using Ethereum blockchain-enabled technology to create a secure, universal data-sharing infrastructure for the space.)
+Tierion is another blockchain startup that has built a platform for data storage and verification in healthcare; both Gem and Tierion recently partnered with Philips Healthcare in the Philips Blockchain Lab.
+Another startup, Hu-manity, partnered with IBM on an electronic ledger that is trying to give patients more control over their data. Hu-manity’s stated mission is to create “Fair Trade Data practices” that would enable the patient to profit from consenting to share data.
+One of the most universally applicable aspects of blockchain is that it enables more secure, transparent monitoring of transactions. Supply chains are basically a series of transaction nodes that link to move products from point A to the point-of-sale or final deployment.
+With blockchain, as products change hands across a supply chain from manufacture to sale, the transactions can be documented in a permanent decentralized record — reducing time delays, added costs, and human errors.
+Several blockchain startups are innovating into this sector: Provenance, for one, is building a traceability system for materials and products, enabling businesses to engage consumers at the point of sale with information gathered collaboratively from suppliers all along the supply chain (and thus substantiate product claims with trustworthy, real-time data).
+Others include Hijro (formerly Fluent), which offers an alternative platform for lending into global supply chains, and Skuchain, which builds blockchain-based products for the business-to-business trade and supply chain finance market.
+Walmart and Sam’s Club joined IBM’s Food Trust network, which uses a blockchain distributed ledger. The retailers have asked their suppliers, especially those of leafy green vegetables, to add their produce data to the ledger. The system is used to make it easier to quickly trace the origins of food — a key advantage in cases such as trying to trace the source of contaminated produce.
+In a different direction, the government of Rwanda is working with UK-based startup Circulor with the goal of tracing and removing sources of funding for conflict materials.
+
+Energy management is another industry that has historically been highly centralized. In the US and UK, to transact in energy one must go through an established power holding company like Duke Energy or National Grid, or deal with a re-seller that buys from a big electricity company.
+As with other industries, the distributed ledger could minimize (or eliminate) the need for intermediaries. Startups like Transactive Grid — a joint venture between LO3 Energy and Brooklyn-based Ethereum outfit Consensys — are rethinking the traditional energy-exchange process.
+Transactive Grid uses Ethereum blockchain technology to enable customers to transact in “decentralized energy generation schemes,” effectively allowing people to generate, buy, and sell energy to their neighbors. LO3 Energy also has projects that include Brooklyn Microgrid and Project Exergy, the latter being a proof-of-concept for harnessing excess heat expelled by computers.
+Other companies have used blockchain as a path toward providing access to renewable energy, too. For example, two major Spanish power companies — Acciona Energy and Iberdrola — are using blockchain to certify that energy is clean by tracking its origins.
+Investing in athletes has generally been the purview of sports management agencies and corporations, but blockchain could decentralize the process of funding athletes by democratizing fans’ ability to have a financial stake in the future of tomorrow’s sports stars.
+The concept of using the blockchain to invest in athletes (and earn returns) has not been tried on any significant scale. Yet at least one organization, The Jetcoin Institute, has promoted the idea of fans using cybercurrency — in this case, “Jetcoins” — to invest in their favorite athletes and receive small a portion of the athlete’s future earnings (as well as VIP events, seat upgrades, and so on).
+Jetcoin has experimented with this approach in a partnership with the Hellas Verona soccer team in Italy, among others.
+
+Blockchains can help retailers offering gift cards and loyalty programs to make those systems cheaper and more secure. With fewer middlemen needed to process the issuing of cards and sales transactions, the process of acquiring and using blockchain-reliant gift cards is more efficient and cost effective.
+Similarly, increased levels of fraud prevention enabled by the blockchain’s unique verification capability also save costs and help prohibit illegitimate users from obtaining stolen accounts.
+Gyft, a First Data-owned online platform for buying, sending, and redeeming gift cards, partnered with blockchain infrastructure provider Chain to run gift cards for thousands of small businesses on the blockchain, in a program called Gyft Block.
+Another startup, Loyyal, is innovating to make loyalty incentives more easily exchangeable across different sectors (think multi-branded “Airline/Retailer/Consumer” rewards) by using blockchain to support and verify their value.
+The management of public services is yet another area where blockchain can help lessen paper-based processes, minimize fraud, and increase accountability between authorities and those they serve.
+Some US states are taking it upon themselves to realize the benefits of blockchain: the Delaware Blockchain Initiative, launched in 2016, aims to create an appropriate legal infrastructure for distributed ledger shares, to increase efficiency and speed of incorporation services.
+Illinois, Vermont, and other states have since announced similar initiatives. Startups are assisting in the effort as well: in Eastern Europe, the BitFury Group is currently working with the Georgian government to secure and track government records.
+
+Blockchain’s distributed ledger offers several opportunities around gun ownership and usage. If gun possession-related information were logged and connected through blockchain, it could provide a connected infrastructure for tracking where weapons came from in the event of unlawful use.
+A startup called Blocksafe is focusing on creating a blockchain-based system for weapons tracking and accountability, which would enable gun owners to track their guns’ locations and stay informed as to whether lost weapons had been fired.
+Long-term, other opportunities exist in creating public-private partnerships around such information, such as linking existing No Fly List information to blockchain transaction records to more effectively prevent unlawful gun purchases.
+
+Wills are a highly specific kind of contract, providing an ideal use case for a blockchain smart-contracts solution. In addition to the challenge of verifying the deceased’s actual death, will-related litigation often involves challenges to the “genuineness” of a will — that is, whether the legal interpretation aligns with the deceased’s intentions.
+While the application of blockchain would not completely remove these challenges, it would make it easier to identify factual information, provide verifiable transaction data, and dismiss claims that are without merit.
+Through its Blockchain Apparatus initiative, Blockchain Technologies Corp. is developing a self-executing will system with a blockchain that will automatically check the government’s “Death Master File,” maintained by the U.S. Social Security Office, to verify that a person did in fact pass. Then, pre-programmed rules setup by the person will automatically distribute their assets to beneficiaries, eliminating the need for executors and court battles regarding the integrity of the will.
+
+Currently, consumers’ sense of trust in the retail system is mainly linked to their trust in the marketplace where their purchases are being made. (As an example, trust is a key element of Amazon’s success with customers.) Blockchain could decentralize that trust, attaching it more to the sellers on various marketplaces and platforms than to the sites themselves.
+Startups like OpenBazaar are developing decentralized blockchain utilities to connect buyers and sellers, without a middleman and the associated charges. OpenBazaar operates as an open-source, peer-to-peer network offering merchants no fees and no restrictions on what can be sold.
+Customers purchase goods using any of 50 cryptocurrencies, and sellers are paid in Bitcoin — with all associated data distributed across the global network instead of stored in a central database.
+Moët Hennessy Louis Vuitton (LVMH) created a platform with Microsoft and blockchain startup ConsenSys to authenticate luxury goods through blockchain. AURA, the platform, lets customers trace their products from design to distribution. For the brand, AURA adds additional protection from counterfeit goods and fraud.
+For those making charitable donations, blockchain provides the ability to precisely track where your donations are going, when they arrived, and whose hands they ended up in.
+From there, blockchain can deliver the accountability and transparency to address the perennial complaints around charitable donations — including the organizational inefficiency (or even financial misconduct) that can prevent money from reaching those it was meant for.
+Bitcoin-based charities like the BitGive Foundation use blockchain’s secure and transparent distributed ledger to give donors greater visibility into fund receipt and use.
+The company has launched a beta version of GiveTrack, a blockchain-based multidimensional donation platform that provides the ability to transfer, track, and provide a permanent record of charitable financial transactions across the globe. By leveraging GiveTrack, charities can drive stronger trust with donors.
+
+In police investigations, maintaining the integrity of the chain of evidence is paramount, so a distributed, hard-to-falsify record kept via blockchain could provide an added layer of security to the evidence-handling process. In addition, blockchain can be leveraged for flagging certain kinds of transaction patterns — giving police a heads up when an individual engages in suspicious financial activity.
+Startups are innovating to bring these benefits to law enforcement. Chronicled is developing sealable, tamper-proof containers with near-field communications chips that register container contents through a blockchain system — creating an ideal solution for evidence management in law enforcement.
+Elliptic, meanwhile, is developing a system to continually scan bitcoin registries, uncovers complex relationships within the transactions, and flag suspicious transactions/histories for potentially alerting law enforcement.
+
+Conducting background checks and verifying employment histories can be time-consuming, highly manual tasks for human resources professionals.
+If employment and criminal records were stored in a blockchain ledger (and thus free from the possibility of falsification), HR professionals could streamline the vetting process and move hiring processes forward more quickly.
+Chronobank is one blockchain project aimed at disrupting the HR/recruitment industry, with a specific focus on improving short-term recruitment for on-demand jobs (in cleaning, warehousing, e-commerce, and so on). The startup aims to use blockchain to make it easier for individuals to find work on the fly and be rewarded for their labor through a decentralized framework via cryptocurrency, without the involvement of traditional financial institutions.
+Once a person is hired, employee engagement becomes a big part of people management — and blockchain could play a role. For example, eXo Rewards uses cryptocurrency and a blockchain wallet to gamify and incentivize employees. Colleagues can send recognition to one another in the form of tokens, which can be used in a company marketplace on different goods and services.
+
+The benefits of using blockchain for smart contracts and verifiable transactions can also be applied toward making business accounting more transparent. The Boardroom app, for example, provides a governance framework and app enabling companies to manage smart contracts on the public and permissioned Ethereum blockchains.
+The app provides an administrative system for organizations to ensure smart contracts are executed according to rules encoded on the blockchain (or to update the rules themselves). Boards can also use the app for shareholder voting by proxy and collaborative proposal management.
+Aragon is going even further, using blockchain to “disintermediate the creation and maintenance of companies and other organizational structures.” Believing that decentralized organizations can solve the world’s worst problems, Aragon is developing tools to help companies use blockchain to manage their entire global workforce.
+The company sees blockchain as a tool to welcome more employees and contractors from developing countries into North American and European businesses.
+
+Lenders minimize the risk posed by loans or lines of credit to small businesses by evaluating their histories using business credit reports. These third-party reports — issued companies such as Dun & Bradstreet — are inaccessible to the small business owners (beyond the basic profile information they provide to the credit bureau).
+This can make business owners feel like credit bureaus have all the power over loan terms, even though the credit bureau may be assessing outdated or inaccurate information to determine their reports.
+Lumeno.us is one startup using blockchain technology to make business credit reports more accurate, transparent, and shareable. Lumeno.us normalizes semi-structured financial data using a proprietary application of collaborative tagging and advanced analytics.
+From there, it provides business owners the tools to share their data in order to get a loan, find trusted partners, or manage a portfolio or network.
+
+3D printing and “additive manufacturing” (aka building 3D objects by adding layer-upon-layer of material) are highly technology-driven processes, whereby the digital files involved can be easily transmitted with the click of a mouse. Consequently, parts and products are easier to share and track — leading to smarter digital supply networks and supply chains.
+Using blockchain to support these evolving infrastructures can eliminate security vulnerabilities, protect intellectual property from theft, and streamline project management, ultimately helping the 3D printing and additive manufacturing sectors to grow and scale.
+Stealth startup in this area is Genesis of Things, which is working to combine 3D printing, blockchain, and IoT-sensor technologies to create more advanced manufacturing processes.
+In doing so, they hope to lower the costs of 3D printing custom items (using airline parts as a case study on their website) and automate more aspects of production and transactions.
+
+The crowdfunding industry emerged to “disintermediate” capital formation by giving backers (aka “pledgers”) or individual investors the ability to directly fund creators and entrepreneurs, providing a natural alignment with blockchain capabilities.
+For example, the movie BRAID became the first major feature film to be financed through a token “crowdsale” on the Ethereum blockchain through its $1.7M campaign on Weifund.
+Initial Coin Offerings (ICOs), in which companies sell cryptocurrency-backed tokens in their companies in the same manner as a publicly-traded company sells stock, are another example of blockchain-powered crowdfunding. Startups such as OpenLedger make that possible.
+Individuals may soon invest in real estate using “crypto crowdfunding,” as well: Singapore-based Real Estate Asset Ledger (REAL) intends to use blockchain technology to inject greater liquidity and transparency into real estate investing.
+Pledgecamp is a Kickstarter and Indiegogo competitor which aims to increase transparency (via smart contracts) and offer “Backer Insurance” by decentralizing the process. As projects reach target funding, money is transferred to a secure escrow wallet that unlocks funds gradually. Backers can see how the money they invested is being spent and can provide input about the direction of the project, e.g. voting on whether to begin a new phase of development.
+
+Some real-world currencies are backed by underlying physical commodities that have intrinsic value, and for a long time the US Dollar had an equivalent in gold.
+In a pioneering experiment, Venezuela’s president Nicolas Maduro planned to create a national cryptocurrency called “Petro” that will be backed by the country’s ample oil reserves. And Vladimir Putin has commisioned his team to make a blockchain-based version of the russian currency rouble.
+Many saw it as a ruse for both countries to circumvent US sanctions. However, it could be the beginning of nation-backed cryptocurrencies that are tied to commodities, especially for resource-rich countries.
+Another project called BananaCoin offers tokens that can be bought with Ethereum or Bitcoin and the price is tied to the price of 1 kilogram of bananas on the international market. In a commodity-backed spin on crowdfunding, tokenholders would indirectly be supporting an organic banana farm in Laos that plans to export to China, where bananas are in high demand.
+
+In December 2017, San José State University’s School of Information received a $100K grant from the Institute of Museum and Library Services to fund a year-long project exploring the potential of blockchain technology for information services.
+The researchers report their findings on a dedicated blog, and SJSU faculty members Sandra Hirsh and Sue Alman will lead a national forum in 2018 with technical experts in library science, blockchain technology, and urban planning.
+So far, the potential uses for blockchain in libraries include helping libraries expand their services by building an enhanced metadata archive, developing a protocol for supporting community-based collections, and facilitating more effective management of digital rights.
+Hirsh and Alman’s work has caught the attention of the American Library Association’s Center for the Future of Libraries. They will work with the ALA on a book project involving case studies of how blockchain is affecting libraries and what they project will be accomplished in the future.
+
+Blockchain could have multiple applications in the publishing industry, from breaking into the industry to rights management to piracy.
+Currently, the industry is controlled by a small group of publishers, which makes it difficult for new and unrecognized writers to break in. New platforms are emerging to level the playing field for writers and encourage collaboration among authors, editors, translators, and publishers.
+Authorship allows writers to publish their work on the platform. Readers can purchase the books from the platform using Authorship Tokens (ATS), an Ethereum-based cryptocurrency, and writers get 90% of royalties in ATS. They can work with translators — who are also paid in ATS — to publish their work in multiple languages.
+Authors own the copyright to their work, so they have the freedom to publish and distribute it elsewhere. Publishers can also use the Authorship platform to discover writers and print their books.
+PageMajik is a workflow management system designed to streamline the publishing process. The system provides a secure, centralized catalog of all files, which can be easily accessed by teams of writers, editors, and publishers. Each person’s roles, rights, and duties can be specified before they actually start using the platform to minimize errors. PageMajik is in the process of adding blockchain technology to the next version of its workflow system.
+
+Between 20-30% of the fish sold in the US are caught illegally. Fishing is also one of the largest industries in the world using forced labor, according to the Wall Street Journal. Blockchain-based systems could help make the industry more sustainable, eco-friendly, and legally compliant.
+Registering types and quantities of fishing nets on a blockchain would allow authorities to track whether boats return to port with the number of nets they left with. Blockchain can also be used to identify and track the fish themselves.
+In 2018, WWF partnered with ConsenSys and SeaQuest Fiji to implement a blockchain system that verifies where, when, and how tuna fish was caught. Eventually, consumers will be able to scan a QR code with their smartphone to trace the fish “from bait to plate” and confirm that they’re buying legally caught, sustainable tuna with no slave labor or oppressive working conditions involved.
+
+In our digital world where image theft is often a two-click process, photographers can have a difficult time getting paid royalties for their work.
+At CES 2018, Kodak unveiled its plan to launch its own cryptocurrency, KODAKCoin, to ensure that photographers are paid appropriately for usage. KODAKCoin will be backed up by a blockchain ledger and image rights platform called KODAKOne, which will allow photographers to securely register new and old work.
+
+Blockchain could help streamline the public assistance system, which is often bogged down by bureaucracy. The UK began working with startup GovCoin Systems in 2016 to conduct trials for developing a blockchain-based solution for welfare payments.
+GovCoin virtually mimics the “jam-jar method” — dividing money into separate stashes for different expenses. It gives welfare recipients instant access to their benefits — which are paid in cryptocurrency — through its app. Recipients can create their own digital jam jars for rent, utilities, etc. and distribute money among them in the app.
+
+Video is predicted to account for 82% of all internet traffic by 2021. Blockchain could help dramatically reduce the cost of video traffic by decentralizing video encoding, storage, and content distribution. This could disrupt Netflix, YouTube, and other players in the video distribution ecosystem.
+The VideoCoin Network is already working towards freeing up this capital. The decentralized network provides cloud video infrastructure — encoding, storage, and distribution — in the form of a peer-to-peer algorithmic market. It runs on a new blockchain where clients spend VideoCoins to rent these services.
+Livepeer is another decentralized network that allows users to share live video directly with their peers. Users can earn Livepeer Tokens by performing video transcoding. Stream is a similar blockchain-based platform that aims to “put content creators back in power” by allowing its broadcasters to accept Stream Tokens directly from their fans.
+Online gaming continues to see expansive growth and is now considered a competitive sport, with coveted titles to win, major cash prizes, and even a black market.
+Blockchain technology enables gamers to have a more even playing field for competing, getting rewarded, and exchanging assets across digital universes. Through blockchain, digital tokens can be securely exchanged for cryptocurrency without third-party investment.
+Through blockchain’s distributed ledger, gamers can use one perfected character or set of skills and items across digital worlds. This means they can earn rewards more quickly, then exchange them through one decentralized source.
+These opportunities are already popping up. The Huntercoin project is a gaming ecosystem in which players earn in-house cryptocurrency rewards (in this case, HUC coin). For eSports and sports betting, there’s Unikoin Gold. With a decentralized blockchain base, gaming platforms can facilitate more secure and transparent money exchanges.
+E. Coli, salmonella, accidental horse meat — there have been a lot of disturbing slip ups in the food and beverage industry recently. Blockchain technology could help manufacturers and distributors avoid these mishaps.
+As a decentralized ledger that records, stores, and tracks data, blockchain provides a way to monitor the food supply chain and trace contamination issues to their root. It benefits the food processor, which can avoid sending harmful items to distributors; the retailer, which can cut down on or respond more quickly and effectively to recalls; and the consumer, who can trust that what they buy is safe to eat.
+So long as each party agrees, blockchain serves as an accountability platform that can help cut down on food recalls, mislabeled products, and confusion over where an issue arose. For example, blockchain-based tracking can easily be applied as a QR Code that, when scanned, shows a product’s full journey to a customer’s cart.
+This is essentially how the Tattoo Wine Platform from Ernst & Young will work. Members can scan a QR code on a batch or bottle of wine to trace it from vine to glass.
+Think of the data that goes into booking a flight: names, birthdays, credit card numbers, immigration details, destinations, and sometimes even hotel or rental car information, depending on how flights are booked.
+Implementing blockchain technology to secure and reconcile this data can make for a safer journey — and one that’s more convenient for the traveler. Transforming a material ticket into a digital token provides a new layer of security. Using a smart contract as part of the ticket token can help airlines control the sale and use of tickets to provide verified experiences for customers. It can also be used to create more accurate logs of aircraft maintenance, prevent overbooking, and more.
+Airline loyalty is an area where blockchain is already being executed. Singapore Airlines recently started using KrisPay, a digital wallet built on a blockchain that securely turns miles into cryptocurrency that can be used with merchant partners. This program rewards frequent fliers instantly and lets them securely use their points on a variety of purchases, not just additional flights.
+Beyond the safety and traceability aspects discussed in the context of the food and beverage industry, blockchain has potential to help the agriculture space evolve. A decentralized blockchain system could improve transactions, market expansions, and product-specific logistics throughout the agriculture supply chain.
+In agriculture, a blockchain record establishes a level of trust between merchants who otherwise might not have experience with one another. It allows the market to expand and encourages healthy competition between sellers.
+One company, AgriDigital, is already using blockchain technology to digitize the buying, selling, and storing of grain, with plans to add other commodities. It makes managing relationships, from farmers to stock traders, centralized and secure.
+Online gambling has seen significant growth over the past few years. But some of its core issues — namely a huge gap in transparency — haven’t yet been solved.
+Introducing blockchain technology can help establish transparency and build trust between a business and its consumers. The technology helps ensure fair games: records can’t be manipulated on the ledger, so there’s no such thing as “the house always wins.” Sites like Wagerr play on the idea of “trustless betting,” meaning that the system is so decentralized, you don’t need trust.
+Decentralization makes gambling more universally accessible and reliably balances costs for online casinos. Plus, it enables anonymity, which is important for many gamblers. Sites that require too much documentation and verification hinder people from playing, and could be seen as good targets for hackers.
+Pharma isn’t known for being a fast-moving industry. Despite the sector’s focus on innovation and problem solving, there’s a lot of red tape around clinical testing, FDA approvals, and more.
+Using a blockchain ledger can create a more efficient system, opening the door for faster innovation, better regulated production, and smarter medical data security. For instance, research can be published earlier, without scientists worrying about their intellectual property. If a report is published through a blockchain-enabled system, there will be permanent record of its existence, preventing others from claiming it as their own.
+Blockchain can also enforce safer drug production. If errors are made, they can be caught and traced to the source. This helps prevent recalls, or at least allows manufacturers to quickly contact retailers to lessen the impact of unsafe drugs on patients’ health and businesses’ finances.
+The assets that can be tracked and recorded using blockchain aren’t just digital transactions — they also include physical items, like shipping trucks. And while many of the other industries discussed involve public records, private blockchain networks offer their own possibilities.
+The Blockchain in Transit Alliance (BiTA) has already been formed to develop industry standards and educate its network of members. It’s the largest commercial blockchain alliance in existence, and its members are developing the frameworks that will change the trucking and transport industries.
+Blockchain can improve transactions, shipment tracking, and fleet management, as well as protect assets and increase fleet efficiency. It can help track contamination in food, for example, by tracking a truck that carries ingredients and noting if safe storage conditions were maintained during any delays. Additionally, it can help optimize routes by matching truckers and items to be delivered with trucks in a certain region.
+But for a decentralized ledger to work in this industry, there needs to be buy-in from every side: small and large businesses, last-mile shippers, and mega trucking companies. Without total buy in, the system won’t optimize fully.
+Recycling is one of the best ways to reduce landfill waste — but it can be a confusing and laborious practice that doesn’t have much reward. A blockchain-based solution could help optimize recycling systems that are already in place.
+Many companies are popping up to incentivize recycling. The Plastic Bank offers money or digital tokens in exchange for used plastic, and is working with IBM to expand its recycling solution globally. Recereum is a more localized platform that allows communities to reward people who properly sort their recycling with coins.
+
+After legalization of marijuana in Canada, and growing support for legalization across the US, the cannabis industry is reaping big investments in tech and research.
+The legalized cannabis industry is likely to be tightly regulated and could benefit from a transparent and secure system for tracking production and distribution. Blockchain technology could provide a record of product movement from farm to dispensary, helping to boost safety and regulatory compliance.
+Mile High Labs, a producer and supplier of CBD products, partnered with Chain.io to create a blockchain-tracked supply chain for the cannabis industry. Beyond supply chains, Mile High Labs is also interested in using the ledger technology for regulation and compliance.
+IBM has also proposed blockchain technology as a way for governments to control the source and sale of cannabis.
+
+As the banking industry continues to adapt to cryptocurrencies and blockchain technology, accountants are beginning to follow suit.
+Accountants work with a spread of documents — from tax forms to bank statements to spreadsheets — containing extensive personal or organizational information. Layering in blockchain technology could make it easier to keep track of this sensitive data as it is processed by accounting firms.
+Data tracking enabled by blockchain technology may also help to automate certain accounting services using AI, which could reduce human error and instances of fraud.
+Big Four accounting firms are already jumping on board: KPMG has invested in programs and projects to research and share information about blockchain; Deloitte developed blockchain-based software; while PwC created a blockchain-based auditing service.
+
+Construction is a highly regulated industry which employs a wide variety of tradespeople for often complex projects. Validating their identities, their quality of work, and their dependability can be difficult and time consuming. A blockchain-based ecosystem could help solve this challenge by making it simpler for general contractors to verify identities and track progress across multiple teams.
+Blockchain technology could also help ensure construction materials are sourced from the right places and are of the appropriate quality, while smart contracts may make it simpler to automatically issue timely payments linked to project milestones.
+
+Even the US Postal Service is looking into implementing blockchain to improve operations and service. Distributed ledger technology could help create a tracking system which reduces costs for USPS and saves time for postal workers.
+The Office of the Inspector General released a report in 2016 which summarized ways that blockchain could be used by the agency, including streamlining its financial services (like money orders), building a better “Internet of Postal Things,” improving validation of consumers’ identities, and streamlining supply chain management.
+
+The growth of cities has also put pressure on many transportation systems, which are often expensive to run and can be inefficient.
+Employing blockchain technology could help cities better understand how their residents are utilizing public transportation options. For example, UK-based DOVU lets users share their commuting and transit data — including how they use buses, trains, bike shares, even pedestrian paths — through a blockchain-backed app which then rewards them with crypto-tokens. The company has partnered with car manufacturers as well as mass transit company Go-Ahead.
+Blockchain could also contribute to a more functional and streamlined system. For instance, a public ledger can be used to store and share information on vehicle efficiency or timeliness — information which may help better optimize routes and schedules.
+ 
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/07130115/Banking_Headers_8-7-01-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08091411/Messaging_Header_logo-02-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/11145900/Hedge_Funds_Header_logo-04-768x368_062019.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08091702/Voting_Header_logo-05-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08091954/Internet_ID_Header_logo-06-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08092101/Crit_Infrastructure_Header-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08092223/Ride_Sharing_Header_logo-08-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08092320/Internet_Advertising_Header_logo-09-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08092416/Crypto_Exchanges_Header_logo-32-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08092518/Education_Header_logo-31-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08102858/Car_Leasing_Sales_Header_logo-33-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08103021/Industrial-IOT_Header_logo-10-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08094620/Cloud_Storage_Header_logo-28-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08094745/Cloud_Computing_Header_logo-111-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08094845/Forecasting_Header_logo-17-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08094953/Music_Header_logo-03-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08103331/Stocktrading_Header_logo-35-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08095217/Real_Estate_Header_logo-12-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08095316/Insurance_Header_logo-13-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08095422/Healthcare_Header_logo-14-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08095516/Supply_chain_Header_logo-15-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08095605/Energy_Mngmt_logo_8-7-19-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08095743/Sports_Management_Header_logo-18-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08095910/Gift_Card_Header1-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08100002/Govt_Public_RecordsHeader_logo-16-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08100052/Gun_Tracking_Header_logo-21-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101016/Will_Inheritance_Header_logo-26-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101109/Retail_Header_logo-22-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101205/Charity_Header_logo-30-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101256/Law_Header_logo-23-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101345/HR_Header_logo-24-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101434/Biz_Corp_Governance_Header_logo-34-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101523/Credit_Histories_Header_logo-25-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101642/3d_printing_Headers_logo-17-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101845/Crowdfunding_Header_logo-27-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08101935/Commodity_Currency_Header_logo-29-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08102048/Libraries_logo-04-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08102139/Publishing_Headers_logo-05-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08102228/Fishing_Headers_logo-06-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08102322/Photography_Headers_logo-07-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08102414/Pub_Assisstance_Headers_logo-08-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/08102552/Vid_streaming_Headers_logo-091-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/17111431/Blockchain_update_12-17-01-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/19180208/Blockchain_update_12-19-022-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/17111553/Blockchain_update_12-17-03-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/17111630/Blockchain_update_12-17-04-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/17111705/Blockchain_update_12-17-05-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/19180841/Blockchain_update_12-19-06-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/17111816/Blockchain_update_12-17-07-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/19180945/Blockchain_update_12-19-08-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/11140002/Blockchain_update_6-11-09_Cannabis-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/11140047/Blockchain_update_6-11-10_Accounting-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/11140122/Blockchain_update_6-11-11_Construction-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/11140159/Blockchain_update_6-11-12_Federal-Mail-1024x490.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/11140249/Blockchain_update_6-11-13_Public-Transportation-1024x490.png']
+3	"
+
+					Fashion Forward: How Tech Is Targeting Waste & Pollution In The $2.4T Fashion Industry                
+"	"
+			June 4, 2019        "	https://www.cbinsights.com/research/fashion-sustainable-technology/	"Fashion is one of the most wasteful industries in the world, but thanks to new technology and consumer demand for more eco-friendly practices, that's starting to change.
+Fashion is one of the world’s most wasteful and polluting industries.
+The textiles industry alone uses nearly 26.4T gallons of water and 98M tons of oil per year, according to a 2017 report. Half a million tons of microfibers from clothing are leaking into our oceans each year. The equivalent of one garbage truck of textiles is wasted every second.
+
+Source: Ellen MacArthur Foundation
+The fast fashion model, wherein designs move swiftly from runway to stores, is considered a major contributor to these problems. Fueled by social media, consumers want to get a hold of the latest trends as quickly as possible, and retailers must rapidly increase production to meet demand.
+But this can lead to overproduction and huge amounts of waste — fast fashion retailer H&M, for example, reported a global inventory of unsold clothes worth $4B in 2018.
+Even luxury brands are contributing to this problem. In 2017, British luxury fashion label Burberry burned £28.6M (around $37M) worth of unsold bags, clothes, and perfume.
+And it’s not only unsold merchandise that’s problematic. After use, 73% of clothes either end up in landfills or are incinerated.
+If these practices continue, the fashion sector could consume a quarter of the world’s carbon budget by 2050. But with increasing consumer demand for more sustainable products and a rising focus around eco-friendly practices, the fashion world is taking steps to lessen its negative impact on the environment.
+In this report, we examine how fashion brands are leveraging technology to make clothing production and consumption more sustainable, from the use of plant-based textiles and bacteria-based dyes to leveraging a blockchain-based supply chain to increase transparency.
+We also look at the challenges these efforts face and what the future might hold for the industry.
+Tech innovations shaping a more sustainable fashion industry
+Reducing consumption in the fashion industry
+Closing thoughts
+One way the fashion industry is looking to reduce waste and pollution is by using alternative fabrics.
+Natural fibers, such as cotton, are resource-intensive. Making one cotton shirt requires 713 gallons of water — approximately what one person drinks in 2.5 years. Synthetic materials like acrylic, polyester, and nylon degrade very slowly, and can contain harmful chemicals.
+Some fashion brands are turning to agricultural waste products such as leaves and rinds to create more eco-friendly textile alternatives.
+For example, British company Ananas Anam turns pineapple leaves into a leather textile called Piñatex. Fibers are extracted from pineapple leaves and after processing, emerge as a non-woven mesh forming the base of the textile.
+
+Source: Ananas Anam
+Ananas Anam does not use any substances that are hazardous to the environment, and its non-woven mesh is biodegradable.
+The startup has caught the attention of some high-profile designers — menswear brand Hugo Boss crafted limited-edition sneakers using Piñatex.
+Another startup exploring biodegradable fabrics is Italy-based Orange Fiber. The company extracts cellulose from the rinds of juiced oranges and converts it into a material resembling silk. When combined with other yarns, the fiber can be made into garments. Italian fashion label Salvatore Ferragamo launched a capsule collection of dresses, pants, and shirts made from orange fiber in 2017.
+
+Source: Orange Fiber 
+For now, natural textile sources seem to be geared toward low-volume, high-priced brands like Hugo Boss and Ferragamo. More investment may be needed from large brands to tailor these textiles to their high-volume requirements.
+Because of its use of cotton and other raw agricultural materials, the fashion industry and its supply chains are directly linked to soil degradation and biodiversity loss.
+Now fashion brands are beginning to look to regenerative agriculture to curb these negative effects on the environment.
+Regenerative agriculture works to restore soil health through practices such as composting, avoiding synthetic fertilizers & pesticides, and planting crops that grow year-round to enrich the soil and prevent erosion. The resulting natural CO2 sequestering could help to reverse the effects of climate change.
+French luxury brand Kering has partnered with the Savory Institute, a nonprofit organization supporting regenerative agriculture, to help identify and develop a network of regenerative farms.
+Kering, which hopes to cut its environmental impact by 40% over the next 6 years, will use Savory’s Ecological Outcome Verification (EOV) methodology in its supply chains for leather, wool, and cashmere. EOV tracks ecosystem functionality to assess the health of the land and farming systems that support the production of these materials, which will help Kering build a more sustainable and transparent supply chain.
+Kering and the Savory Institute hope that the resulting network of farms will provide an example of restorative practices for other companies to follow so that they can be incorporated in fashion and luxury supply chains more broadly.
+Other brands such as Patagonia and Prana are also investing in regenerative farming. Both companies are allies of the Regenerative Organic Alliance (ROA), which is working to create a Regenerative Organic Certification to set a standard for what can legally qualify as regenerative farming.
+Patagonia CEO Rose Marcario is a member of ROA’s board, and the company is working on pilot projects to make existing organic cotton farms in India fully regenerative. It hopes to incorporate regenerative cotton from the farms into its product lines within the next 6 seasons.
+Regenerative farming seems to be a promising solution for the fashion industry’s sustainability problems, but it still has significant obstacles to overcome. Once the ROA’s certification is finalized, achieving it will present an added cost for farmers.
+Because the process of converting an organic farm to a fully regenerative one takes multiple years, farmers might have a hard time investing without a brand paying the premium. Fashion companies must be willing to support farmers who do not have the financial resources to shift to regenerative methods.
+To reduce clothing and textile waste, the fashion industry is embracing the circular economy — a shift from the “take-make-waste” linear system to a restorative one that designs out waste, keeps materials and products in use for as long as possible, and regenerates the environment.
+
+Source: Ellen MacArthur Foundation 
+Leading brands such as Burberry, Gap, H&M, Nike, and Stella McCartney have joined forces to create the Make Fashion Circular initiative, which aims to transition the fashion sector to a circular operating model. The brands are working with city officials, fashion producers, and designers to focus on business models that keep clothes in use, incorporate more renewable materials, and recycle old clothes into new ones.
+For example, Make Fashion Circular has teamed up with New York City to launch the #WearNext campaign, in which participating stores serve as drop-off points for old, unwanted clothes. From there, the clothes are recycled into new items instead of ending up in landfills.
+Startups in the industry are also working to implement low-waste, circular practices. T-shirt brand For Days, which has raised $5M in seed funding, envisions a zero-waste, closed-loop system.
+Through its membership program, customers can send back their used tees in exchange for new ones as often as they want, making the model well-suited for fast fashion consumers. The company recycles these shirts to be made into other shirts.
+Some brands are innovating through the creation of new materials, including New Zealand-based Formary, which is creating new textiles from fiber waste, like WoJo (wool with jute from Starbucks’ surplus coffee sacks), Juton (jute and cotton), and Mibu (wool with rice straw, a waste product burned after harvesting rice).
+H&M collaborated with the Hong Kong Research Institute of Textiles and Apparel to develop a hydrothermal method for recycling cotton and polyester blends into new fibers. This innovation is being put into practice at H&M’s textile recycling facilities in Hong Kong.
+Other brands are focused on turning recycled materials into apparel.
+Transitioning to the circular economy can have massive environmental benefits in the long run.
+The Ellen MacArthur Foundation claims that “a circular economy development path could halve [Europe’s] carbon dioxide emissions by 2030, relative to today’s levels,” and reduce consumption of primary materials such as fuel, pesticides, synthetic fertilizers, and agricultural water by 53% in 2050.
+Additionally, the circular economy could provide new revenue streams for fashion companies through the reuse of clothes that would have otherwise been discarded — the fashion industry stands to gain approximately $560B from recycling clothes that are currently either underutilized or incinerated.
+But creating a circular economy would require a different type of supply chain — one that takes back products instead of discarding them. Brands need to incentivize customers and make it convenient for them to return old or used garments and apparel, just like For Days’ model.
+Closing the loop can also be a complex, drawn-out process that can be a challenge to scale.
+For example, the Futurecraft.Loop performance running sneaker, which is still in beta mode, took five years for Adidas to craft. It’s made from a single polymer that can be easily recycled, but the company has yet to figure out a suitable recycling process — from collecting used sneakers to reusing the material from them.
+Automation opens up the possibilities for a local supply chain, which requires less transportation and could result in reduced pollution. It could also minimize concerns around labor conditions in offshore manufacturing facilities.
+
+Source: McKinsey 
+To that end, sewing bots (or “sewbots”) are making their presence known in the manufacturing floor, helping with everything from spinning and weaving fabric to assembling complete towels, pillows, and even T-shirts.
+Early-stage startup Sewbo has developed an industrial robot that works with temporarily stiffened fabrics to sew a fully assembled shirt. Softwear Automation’s sewbots, on the other hand, have vacuum-powered robotic grips that feed fabric into a sewing machine, adjusting it accordingly using machine vision.
+Fashion for Good, a global initiative to make fashion more sustainable, estimates that Softwear Automation’s sewbots can help lower emissions by around 10% by creating products closer to consumers and reducing material waste.
+
+Source: Sewbo 
+3D printing technology could also help automate the manufacturing process.
+Adidas teamed up with 3D printer startup Carbon to create 3D printed midsoles for its Futurecraft 4D shoes. Other industry players produced footwear in the same vein, including Under Armour’s Architech shoes with 3D printed cushioning and support, as well as Reebok’s Liquid Floatride Run shoes with 3D printed outsoles and laces.
+
+Source: Under Armour 
+3D printing could have an even bigger impact when paired with sustainable materials. For example, Tamicare’s Cosyflex technology enables 3D printing of finished fabrics from natural latex and viscose fibers. This eliminates waste from cutting and trimming and removes the chemical hazards of the fabric dyeing process.
+Fast fashion retailers, especially, could benefit from automated manufacturing, which would allow them to manufacturer clothing at a faster pace. Emerging brands like Fashion Nova have become leaders in a so-called “ultra-fast fashion” trend.
+The company works with clothing manufacturers located near its LA headquarters, enabling faster prototyping. With automated manufacturing, the process could speed up even more, especially in an ever-changing fashion scene, where the trendy designs of today may render unpopular tomorrow. It would allow retailers to react to emerging fashion trends, and manufacture a product more quickly than by traditional means.
+But while automation may reduce emissions and improve labor conditions, it could be at the expense of people’s jobs. 86% of wage workers in the garments industry in Vietnam are at high risk of automation, according to a 2016 report by the International Labour Organization. The same is true for 88% of wage workers in Cambodia’s garments industry.
+With the advent of “slow fashion,” a movement focusing on sustainable materials and fair labor conditions, consumers are becoming more conscious of how and where their clothes are made.
+Blockchain technology has the potential to address this shift, enabling a traceable supply chain by recording each step on a decentralized, distributed ledger.
+London designer Martine Jarlgaard collaborated with blockchain startup Provenance for a proof-of-concept implementation of blockchain in the fashion supply chain. Upon scanning a garment’s smart label, consumers can view a digital history of the garment’s journey — from shearing alpaca fleece in the farm to knitting and assembling in a designer’s studio.
+
+Source: Provenance 
+SourceMap, a social network platform for the supply chain, allows farmers, textile mills, and sewing factories to communicate with brands using their products and services. SourceMap has teamed up with Provenance, using the company’s blockchain technology to verify communications between brands and suppliers.
+Meanwhile, EON has created a digital thread that looks and feels like a normal thread but uses RFID technology to store information about what garments are made of. Applied DNA Sciences has created a tagging system to tag and track fabrics, fibers, and yarns throughout the supply chain.
+
+Source: Adnas
+These applications are still in prototyping or commercialization phase. They may need more time for refinements and it might take a while before they go mainstream.
+But efforts to create a more transparent supply chain could provide accountability for brands, build brand trust, and appeal to consumers who want proof that the brands they’re supporting are employing environmentally sustainable materials and processes.
+Over 65% of consumers are willing to pay more for sustainable products, with 42% of millennials and 37% of Gen Z saying they want to know what goes into products and how they’re made before buying them. Moreover, a 2018 survey found that sustainability is likely to be a crucial buying factor for mass market apparel consumers by 2025.
+Most garments are made from cotton, which requires heavy use of fertilizers, insecticides, and water for irrigation. Other synthetic fibers — including acrylic, nylon, and polyester — are laced with chemicals and are nonbiodegradable. Dyeing fabrics also pollutes rivers and wastes a huge amount of water.
+To mitigate these effects, companies are exploring alternative fiber and dye sources.
+Biomaterials company AlgiKnit has developed degradable yet durable bioyarn from kelp, a seaweed naturally occurring in coastal waters that absorbs carbon dioxide and can grow without any fertilizer. The company, which recently closed a $2.2M seed round of funding, has created prototype sneakers knitted from its bioyarn.
+
+Source: Aaron Nesser
+California-based startup Bolt Threads uses bioengineering inspired by spider webs to spin silk proteins into fibers. Modern Meadow, another startup in the space, uses the principles behind cell biology to create animal-free, lab-grown leather.
+Agricultural waste is also a lucrative source of new fibers. MycoWorks combines corn husks and sawdust with mycelium, the vegetative tissue of mushrooms, to produce leather. And Germany-based QMILK is turning sour milk into silky fibers.
+In a similar vein, PrimaLoft, a company known for its synthetic microfiber insulation used in outdoor clothing, altered the molecular structure of polyester to contribute less to plastic pollution. The company attached a simple sugar to the polyester polymer, turning it into a more attractive food source for microbes and thereby speeding up the biodegradation process.
+When it comes to minimizing pollution in the fabric dyeing process, bacteria could be key. Pigments naturally secreted by bacteria could be used to dye textiles, as evidenced by findings from Faber Futures in the UK and Kukka and TextileLab Amsterdam in the Netherlands.
+
+Source: Kukka
+These biotech innovations are not as resource-intensive as conventional fibers or fabrics. They require no oil or fertilizers, contain less harmful chemicals, and use little to no water.
+But they’re still in their early stages, so more funding is needed for further development and exploration on how to scale these innovations on an industrial level.
+Aside from innovations in manufacturing, the fashion industry is also making waves in merchandising. Fashion companies are changing the way consumers think about clothes — from disposable to reusable.
+The secondhand economy is projected to reach $64B by 2028, according to CB Insights’ market sizing tool. Driving this expansion is the resale market, which itself has grown 21 times faster than retail in the last 3 years.
+
+Source: ThredUp
+Secondhand stores are nothing new, but startups are helping these brick-and-mortar outfits find another life online — and raising significant funding. For example, ThredUp, which has raised over $125M in funding, is a resale website for buying and selling secondhand clothes.
+Online luxury handbag resale marketplace Rebag recently raised a $25M Series C funding round, bringing its total funding to over $50M. Vinted follows the same model, but with the added bonus of allowing members to swap items.
+The RealReal, which will reportedly undergo another round of funding to raise its value to $1B, is a consignment shop for pre-owned luxury apparel. Designer Stella McCartney has partnered with the resale company, offering shopping credit for users consigning her items.
+Renting clothes is a more sustainable alternative to buying. It emphasizes access rather than ownership and capitalizes on the sharing economy, providing consumers a budget-friendly way to wear expensive designer items while maximizing the life cycle of the clothing.
+Rent the Runway, for example, offers a wide selection of designer dresses and clothing that can be rented at a fraction of the original cost. The fashion rental company closed a $125M round of funding in March, raising its value to $1B.
+Seattle-based startup Armoire curates a rental closet for customers for a monthly fee. Armoire builds this closet using a combination of professional stylists and machine learning algorithms that take into account a user’s fit, shape, size, and other style preferences. The company raised $3M in funding in 2018.
+
+Source: Armoire 
+Rather than buying a new dress every time an event arises, Designerex users can rent dresses from other platform users. The Australia-based startup, which is launching in the US in 2019, has been called “Airbnb for dresses.” This saves shoppers money and reduces clothes waste.
+Another way brands are promoting longer clothing life cycles and limited waste is by offering repair services to encourage consumers to wear their clothes more and make them last longer.
+A leader in sustainability, outdoor clothing and gear company Patagonia has repair and care guides on its website and operates Worn Wear, a recycling and repair program.
+Women’s clothing brand Eileen Fisher is doing the same, buying back clothes and reselling them through its Renew program. Garments in good condition are washed and cleaned; those needing minor repairs are sewed and fixed; and those damaged beyond repair are repurposed and remade into something new — artworks, pillows, or wall hangings.
+
+Source: Waste No More
+Meanwhile, a growing number of consumers are taking matters into their own hands with the rise of repair cafes — places where people can bring items to be fixed for free — and the visible mending movement.
+With visible mending, people turn rips and flaws into deliberate works of art using colorful threads, patches, and stitching patterns. Dutch fashion collective Painted Series holds workshops where people mend broken garments with gold thread.
+During New York Fashion Week’s preview of its Fall 2019 collection, designers and industry leaders took the opportunity to discuss fashion’s connection climate change, highlighting many of the issues discussed above.
+The United Nations hosted a conference focusing on how the fashion industry generates waste and pollution, and how it can adopt more sustainable practices.
+Designer Luka Sabbat, in partnership with the Natural Resources Defense Council, launched a conceptual fashion line for a future fueled by climate change, featuring an air-filtering bandanna, a fireproof and water-resistant jacket, and a go-bag for climate refugees.
+
+Source: Darian DiCianno via NRDC
+With a spoken-word performance by environmental activist Xiuhtezcatl Martinez serving as a soundtrack, models walked the runway wearing Collina Strada’s collection made of 75% deadstock fabrics and beads recycled from ocean trash.
+Meanwhile, Chromat unveiled its bright and playful swimwear collection featuring upcycled fabrics and sustainable Lycra from discarded fishing nets.
+As one of the world’s most wasteful industries, fashion has a long way to go to achieve sustainability. But highlighting its contributions to climate change in highly publicized events like New York Fashion Week and working with cities and organizations to implement eco-friendly, regenerative practices are steps in the right direction.
+The industry is beginning to lay the groundwork for a cleaner, less wasteful future by adopting circular business models, using natural textiles, and investing in regenerative farming practices — but these developments must be perfected and scaled.
+Mainstream brands, smaller retailers, and suppliers must work together to raise awareness about waste in the industry, continue identifying new sustainable sources, and create convenient ways for consumers to maximize the use of their clothing.
+It’s a massive challenge — but it’s also a massive opportunity for innovation in the space.
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14102917/textile-use-image-1024x585.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14103108/lifecycle-pinatex-1024x829.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14103240/orange-fiber-1024x738.jpg', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14103614/circular-economy-1024x836.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14105157/nearshoring-automation-1024x625.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14104150/SewboStills_1-1024x576.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14104604/underarmour-1024x362.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14105306/martine-1024x382.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14105544/tag-track-1024x432.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14105703/algiknit-1024x344.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14105840/silk-shibori-1024x591.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14110022/second-hand-1024x622.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14110143/armoire-1024x557.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/05/14110251/eileen-fisher-1024x529.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/06/03170514/climate-conscious-clothing.jpg']
+4	"
+
+					Why Nike’s Application for ‘Cryptokicks’ Is Worth Paying Attention To                
+"	"
+			May 15, 2019        "	https://www.cbinsights.com/research/nike-bitcon-blockchain-trademark/	"Nike applied for a trademark on ""Cryptokicks,"" which envisions a platform for crypto-powered collectibles. We dig into what it means for the blockchain space.
+Blockchain startups are taking blockchain’s scarcity concept and reapplying it across non-financial areas to create NFTs, or non-fungible tokens.
+NFTs are unique cryptoassets that can only by owned by one person at a time. Common examples here include Cryptokitties, which makes collectible digital cats, as well as Decentraland, which offers real estate “plots” for its virtual world.
+Now a major corporate is potentially pursuing its own NFT concept.
+Want the full post? Become a CB Insights customer.
+If you’re already a customer, log in here.
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/13095255/exp_core_non-clients.png']
+5	"
+
+					FaceCoin: Here’s What Facebook Could Build In Blockchain And Cryptocurrency                
+"	"
+			April 30, 2019        "	https://www.cbinsights.com/research/facebook-blockchain-cryptocurrency/	"We look at major events, patents, and news mentions to determine what Facebook may be up to in blockchain and digital currency.
+Could blockchain be an answer to scandal-plagued Facebook?
+While a “Facecoin” might not lay the company’s many controversies to rest, it could potentially address everything from centralized single sign-on to cheaper payments processing. A variety of different signals point to Facebook getting serious about blockchain and digital currency.
+
+For one, in January 2018, Facebook CEO Mark Zuckerberg mentioned cryptocurrency when disclosing his annual project for 2018:
+“There are important counter-trends to [the rise of Big Tech] — like encryption and cryptocurrency… I’m interested to go deeper and study the positive and negative aspects.”
+Since then, the company has created a formalized group dedicated to exploring blockchain.
+However, using the CB Insights platform, we learned Facebook has been experimenting with digital currency tech for quite some time.
+From a new org structure to patent trends, we used the CB Insights platform to highlight Facebook’s blockchain ambitions and the possibility of a Facebook cryptocurrency — FaceCoin.
+Facebook began its first exploration of blockchain in mid-2016, when the company reportedly tasked a single corporate development staffer with investigating the technology.
+We mapped out major news coverage related to Facebook’s cryptocurrency efforts. (CB Insights subscribers can run the search here.)
+
+Major events include:
+Facebook now serves as one of the internet’s most important de facto identity layers, with more than 2.5B platform users. 
+Across the web, Facebook’s “single sign-on,” called Facebook Connect, makes it easy for users to sign in to other sites with their pre-existing Facebook login credentials. This seamless user experience gives the company even more user data for targeted advertising. 
+Critics, especially in blockchain circles, note that Facebook’s outsized role has concentrated power — nearly everyone’s online ID is now owned by a single company where the majority of voting power is held by one person, Mark Zuckerberg.  
+Presently, a whole new class of identity-focused startups are aiming to disrupt tech giants’ grip on the identity layer using blockchain technology.
+So what is Facebook’s strategy?
+The company’s reorganization in May 2018 was the company’s largest yet, and the most transparent move around blockchain to date. The reorg spawned a new group run by David Marcus, who previously led Facebook’s chat app Messenger (which now allows P2P payments), as mentioned above.
+David Marcus confirmed the existence of the group in a Facebook post where he stated: “I’m setting up a small group to explore how to best leverage Blockchain across Facebook, starting from scratch.”
+Former Instagram VP of product Kevin Weil and at least 10 others also joined the blockchain division. The addition of major talent indicates the company could be building something notable.
+One report from an unnamed Facebook Blockchain insider said the company was making a long-term bet that would most likely resemble its investments in AI:
+“Rather than targeting a specific vertical, such as payments, Facebook’s blockchain group would provide a foundation from which the firm will be able to target an array of possible opportunities.”
+As Facebook looks to redefine itself and expand its offerings, blockchain could be a significant lever to pull. Among many possibilities, tech commentators have theorized Facebook could build:
+Firstly, Facebook’s massive scale gives it a serious advantage in coin distribution. AngelList founder Naval Ravikant has posited that Facebook could adopt an extreme version of the popular “airdrop” model — distributing crypto tokens as widely as possible to increase the likelihood it gets used as money — as a path toward adoption.
+But floating a widely-used coin is just the beginning. FaceCoin’s influence could extend into payments, e-commerce, banking, and more.
+Josh Constine of TechCrunch wrote that a theoretical FaceCoin could kick-start adoption by offering an immediate 3% discount on everything purchased using the coin. Because FaceCoin would be circumventing traditional partners and processing fees, they could pass the savings on to consumers.
+Considering that Facebook has reportedly asked banks for data partnerships, the company may have financial services ambitions. Perhaps the company could build a branchless challenger bank, leveraging its scale and technical know-how.
+As Facebook’s blockchain ambitions evolve, it could edge into Coinbase’s cryptocurrency exchange territory, similar to Robinhood. Notably, when David Marcus assumed the blockchain role within Facebook, he stepped down from his position on the board at Coinbase, citing a conflict of interest.
+In identity tech, the company could build a login layer like Facebook Connect for decentralized apps (dApps), which can have onerous login processes.
+As blockchain startups aim to turn popular services into dApps, Facebook could gain from expanding its online ID abilities even further. Facebook could perhaps deliver a compelling enough identity UX that kick-starts a wave of consumer adoption.
+Finally, a FaceCoin could be used to incentivize users to engage with Facebook platforms. With recent hacks and negative press, users might be on the fence about uploading a family photo album or updating a status. But if the company could incentivize users with, say, one FaceCoin per uploaded photo, the company could encourage users to spend even more time on the platform.
+In any event, resource-rich Facebook, with top tech talent, and near-ubiquity among consumers and businesses, may eventually need a new appeal to users. By all accounts, the company sees blockchain tech as a possible avenue.
+Facebook has been pursuing IP related to digital currency as far back as 2007, when it applied for a patent that allowed “giving gifts via a social network and displaying icons representing assets … the assets include real assets, digital assets, and virtual assets.”
+Of course, that 2007 patent predates even the dawn of the first blockchain protocol, Bitcoin. But Facebook has a long track record of envisioning tech related to digital assets. We looked at patents related to digital currency below.
+(Clients can examine the patent search here.)
+
+Interestingly, the company’s related patents have tapered off in recent years. This could be due to the fact that much of blockchain innovation happens with open-source software, or the company’s recent applications have yet to be approved.
+But even if the hunger for patents has slowed, clearly Facebook has long been serious about building technology related to digital currency.
+More recent applications include titles such as:
+
+ 
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/24111029/Facebook_blockchain_timeline-1024x570.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/24112759/Facebook_digital_currency_blockchain_patents-1024x626.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2018/10/02115847/Facebook-Patent2-1024x572.png']
+6	"
+
+					Global Fintech Report Q1 2019                
+"		https://www.cbinsights.com/research/report/fintech-trends-q1-2019/	"A data-driven look at global financial technology investment trends, top deals, active investors, and corporate activity in Q1 2019.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/29151425/fintech-q1-2019-feature-1024x466.jpg']
+7	"
+
+					The Biggest Blockchain & Crypto Players In China                
+"	"
+			April 18, 2019        "	https://www.cbinsights.com/research/china-blockchain-cryptocurrency-investment-trends/	"We dig into China's blockchain ecosystem and look at investment trends, top companies, and most active investors across the space.
+China is a key player in the development of blockchain technology, and home to some of the world’s largest and most influential companies in the space.
+But the startup scene is increasingly facing regulatory uncertainty.
+Earlier this month, news broke that Chinese regulators were considering a ban on cryptocurrency mining (China is currently the world’s largest region for bitcoin mining). However, nothing has been formalized yet, and major mining companies Bitmain and Canaan have said the proposed ban won’t even affect operations.
+Despite the negative sentiment coming from top brass, the country still remains a hub for broader blockchain activity. One estimate pegs China as home to 25% of new blockchain projects worldwide. Additionally, tech giants including Alibaba, Baidu, and Tencent have all experimented with enterprise blockchain technology.
+Using CB Insights data, we examined investment activity, top investors, and companies operating across China’s blockchain ecosystem.
+Since 2016, blockchain interest in China has skyrocketed — reaching peak news mentions at the end of 2017. However, publicity has cooled off significantly ever since.
+
+(CB Insights clients can run the same search here.)
+Mirroring the trend in general interest, traditional VC investment follows a similar arc, hitting a sharp peak in Q2’18 with 82 deals. After that, however, deal volume fell for 3 consecutive quarters. Comparing the 24 deals in Q1’19 to the 82 seen in Q2’18, deals fell by over 70% over just 4 quarters.
+That said, even 24 deals per quarter (the recent low point) is still high by global standards. Amidst the general global slowdown, the US saw only 71 deals in the quarter of Q1’19. This is why China remains such an important blockchain sector, despite the slump.
+
+Note: blockchain deals included here are traditional VC, and may omit purchased stakes in token sales.
+Large rounds in mid-2018 included Bitmain‘s mega-round ($400M Series B), Hyperchain’s $234M Series B, and Jixin Blockchain‘s $100M early-stage deal.
+The most well-funded companies span a number of verticals within the blockchain space.
+Mining hardware giant Bitmain is the most well-funded, with $450M of capital raised. Bitmain had been eyeing a 2019 IPO on the Hong Kong Stock Exchange, but reports of difficulties and losses from decreased demand resulted in the expiration of its IPO application.
+The second most well-funded company is Hyperchain ($249M), which develops a host of enterprise blockchain products and distributed ledger technologies (DLTs).
+Wallet developer Jixin Blockchain rounds out the top 3 most well-funded blockchain companies in China, with $100M of funding secured.
+
+Since 2014, the 5 most active investors in blockchain in China are Fenbushi Capital, LD Capital, JRR Crypto, Node Capital, and Danhua Capital.
+In that top 5 most active, all — except Danhua Capital — are focused solely on blockchain investments.
+
+Using the CB Insights Business Social Graph, we visualized where the top 9 most active investors have placed their bets.
+
+Among these most active investors, there was notable co-investment in companies developing blockchain-based games, including Gamegene and Hash World. (Node Capital participated in financing rounds to both companies.) Also in the gaming ecosystem is Fanx, which rewards live streamers via its own token, and raised from JRR Crypto and CollinStar Holdings among others.
+Decentralized cloud computing system TOP Network saw investment from 4 top investors — more than any other company listed. The company raised a $6M Series A round in Q3’18 from investors including Fenbushi Capital, LD Capital, Neo Globaland, and Danhua Capital.
+Other companies with notable co-investment included crypto exchange KuCoin, decentralized DNS service NEO Name Service, BaaS provider Hoopox, and decentralized computing platform Ultrain.
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/16173248/News-Mentions-2014-China-Blockchain-1024x636.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/09165737/Blockchain-Investment-1024x726.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/11223050/Most-Well-Funded-China-Blockchain21-1024x825.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/09165745/Most-Active-China-Blockchain-1024x692.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/17131925/Where-most-active-blockchain-investors-China-are-betting-1024x1022.png']
+8	"
+
+					Where Smart Money VCs Are Betting In Blockchain, Despite ‘Crypto Winter’                
+"	"
+			April 17, 2019        "	https://www.cbinsights.com/research/blockchain-smart-money-investments/	"We examine where 23 smart money VCs have made investments since Bitcoin's peak in December 2017.
+2018 wasn’t a great year for blockchain companies.
+In the run-up in December 2017, Bitcoin hit a peak of nearly $20,000. Coinciding with Bitcoin fever, an unprecedented ICO boom meant blockchain startups had tremendous access to capital. Even traditional VCs were swooping into token sales and adding to the fervor.
+Then, suddenly, the party ended. The price of Bitcoin and Ethereum fell back to Earth in a matter of months. Many projects went sideways or shuttered.
+But even in the so-called “crypto winter,” smart money VCs have continued to pour money into the space.
+When the price of Bitcoin was hovering at roughly one-fifth of its peak, top VCs participated in rounds tallying $465M across 11 deals in Q4’18.
+Overall, 2018 was still a booming year for smart money into blockchain startups, with the 37 deals representing a 270% increase over the 10 deals seen in 2017.
+However, Q1’19 represented the lowest number of smart money investments and funding totals in the last 5 quarters.
+For more on our 23 smart money VCs, please see the explanation and full smart money list at the bottom of this post.
+
+Note: blockchain deals included here are traditional VC only, and may omit purchased stakes in token sales.
+We define blockchain companies as those that provide cryptographically secured networks and distributed ledgers, as well as products or services related to the trading, storing, or usage of blockchain assets.
+To visualize smart money investment, we plotted the deals on a timeline with bubbles corresponding to VC round size. Coinbase‘s $300M Series E is noticably the largest.
+Other notable deals include Circle‘s $110M Series E (General Catalyst), Dfinity‘s $102M mega-round (Andreessen Horowitz), and Algorand‘s $62M Series A (USV).
+
+CB Insights clients can run a search of all smart money deals in blockchain here.
+Smart money deals took a noticeable pause between May and July 2018, when crypto enthusiasm first began cooling.
+This blip was short-lived, and deals rebounded strongly, culminating with the Coinbase mega-round in late October. Then, beginning in December and continuing into 2019, deal volume plummeted.
+Some larger trends that emerge from the timeline include:
+Ethereum-killers. Broadly speaking, early 2018 saw smart money VCs betting on “Ethereum-killers,” or new smart contract platforms that would compete with the main value proposition of Ethereum. Andreessen Horowitz, for example, bet on Dfinity to create a scalable, high-throughput “decentralized cloud” for smart contracts. Eschewing an ICO, Dfinity received a $61M round from Andreessen and Polychain.
+Payments layer. An ongoing theme is funding to projects that address Bitcoin’s weak adoption as a day-to-day currency, which was part of its original vision. To that end, companies like Algorand, which got follow-on from USV in a $62M Series A, are building a high-speed blockchain-based payments protocol. Chia, which raised a $3.4M seed round from Andreessen, is a new “green” cryptocurrency that uses a more energy-efficient consensus mechanism than Bitcoin’s Proof of Work.
+Privacy. The General Catalyst-backed O(1) Labs is using new cryptography approaches to enhance privacy on blockchains. Elsewhere, companies like Starkware, which counts Sequoia and Floodgate as investors, are aiming to improve the scalability of major cryptocurrencies. Both companies employ cryptographic techniques from zero-knowledge proofs.
+Securities & derivatives. Several smart money bets involve new asset classes. Harbor is making a platform for securities such as real estate to be issued and traded on blockchains. Similarly, dYdX is building protocols for derivatives and margin trading without a central authority. Both companies are backed by Andreessen Horowitz.
+Custody. Services for holding cryptocurrencies with institutional-level security is a relatively new trend. Two smart money deals here were to the Redpoint-backed BitGo and Anchorage, which has backing from a16z, Founders Fund, and Khosla Ventures.
+Andreessen Horowitz is the most active investor in blockchain in the most recent period since the peak, with at least 12 deals. (We previously analyzed a16z’s blockchain co-investments with USV.)
+Tied for second are Union Square Ventures and General Catalyst, with 5 blockchain bets in the past year.
+The next most active smart money blockchain investors are Accel, Spark Capital, and True Ventures, which each made 3 bets since the peak.
+Meanwhile, 5 of the 23 smart money names have made no blockchain bets since late 2017.
+
+To analyze smart money trends, we looked at the activity of 23 top VC firms, selected according to portfolio valuations and investment outcomes. Here’s our full list of 23 smart money investors:
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/18133457/Smart-Money-Quarterly-Timeline-1024x642.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/17155715/Smart-Money-Since-Bitcoin-Peak-Final2-1024x652.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/04/05160745/Smart-Money-Most-Active-3-1024x635.png']
+9	"
+
+					How Blockchain Technology Could Disrupt Real Estate                
+"	"
+			February 21, 2019        "	https://www.cbinsights.com/research/blockchain-real-estate-disruption/	"Blockchain technology could have a major effect on the real estate industry, from property purchasing to due diligence to title management. We identify the early adopters and potential impact.
+The real estate industry is undergoing a digital transformation.
+While historically a “pen and pencil” business — often relying on inefficient and archaic methods for doing business and keeping records — technology has begun to help reshape the expanding global market.
+Blockchain technology, especially, is feeding into this transformation (in ways similar to how the emerging tech is disrupting other long-established industries like banking and insurance).
+The decentralized-record-keeping technology, which is designed to instill trust in the authenticity of digital transactions, could be used to create efficient solutions for both commercial and residential real estate — from buying property to conducting due diligence to enabling crowd-sourced investments, and more.
+
+ 
+Some big incumbents are already betting on the tech: Real estate giant RE/MAX has entered into several partnerships to explore blockchain use cases, while Hilton Worldwide has begun using a blockchain-based property management system.
+In this analysis, we dig into how blockchain technology could transform the real estate industry, and the areas where we’re already seeing its impact.
+Blockchain technology offers a form of shared record-keeping which is designed to be difficult to tamper with. Blockchain technology operates through decentralized peer-to-peer platforms, building resilience against the spread of corrupted information and boosting resistance to fraud.
+See our explainer for more on how blockchain technology works. 
+
+Blockchain technology has the potential to address many challenges within the real estate industry, including:
+We consider several areas that could benefit from the use of blockchain technology below, from due diligence to financing systems.
+Currently, the most common method that brokers, owners, buyers, and tenants use to store and access property listings are through third-party platforms such as Zillow.
+
+Zillow’s platform. Source: Zillow
+These platforms tend to be subscription-based and can command high fees from users. Moreover, there is a lack of standardized processes and often poor communication between the platforms. 
+This causes property data to frequently be inaccurate, dated, or incomplete. Further, the data can be fragmented across multiple listing platforms, which introduces inefficiencies.
+Blockchain technology can fix these problems by allowing a property listing to exist on a single decentralized database. 
+With data distributed across a peer-to-peer network, brokers would be able to have more control over their data, as it would be more difficult for it to be interfered with by any third parties. Market participants could access more reliable data at a lower cost.
+Imbrex is a real-world example of a blockchain-based property listing platform.
+
+Source: Imbrex
+Imbrex’s real estate marketplace is built on the Ethereum blockchain. Buyers, sellers, and other agents can use the platform for free, earning rewards for contributing data and helping to maintain the marketplace. 
+Data is encrypted and stored on a blockchain, which means Imbrex does not control it and cannot alter it — contributed data is controlled solely by the listing party. 
+Imbrex is reportedly planning to launch smart contract-enabled transactions using its own cryptocurrency.
+
+Imbrex’s platform. Source: Imbrex
+Physical paper documents for proof of identity are still the norm today. This approach requires the commitment of significant time and effort for due diligence and financial verification. 
+This manual verification process also increases the likelihood of errors and can involve multiple third-party service providers. These factors can be costly and slow down the due diligence process.
+Using digital identities on the blockchain, this entire process can be taken online in a secure manner — increasing efficiency, lowering costs, enhancing data security, and reducing the chance of manual errors. 
+For example, a real estate property’s digital identity could consolidate information such as vacancy, tenant profile, financial and legal status, and performance metrics. 
+A digital blockchain-based solution is currently being developed by Lantmäteriet, the Swedish land authority, in collaboration with blockchain startup ChromaWay, Swedish telecommunications giant Telia Company, and several real estate enterprises. 
+Its goal is to digitize contracts for sale and property mortgages that are authenticated by blockchain technology. 
+This solution streamlines the process of transferring property titles while also adding some layers of security. All parties involved in the process, including the buyer, seller, real estate agent, the buyer’s bank, and the land registry, have their own digital identities. 
+Each can use a single application to securely send and sign official documents using blockchain-verified smart contracts. All actors can view the associated documents and information, with verification of the steps that have taken place during the process. 
+ChromaWay announced that it had completed a full transaction on the platform in June 2018.
+
+A demo of ChromaWay’s application. Source: ChromaWay
+Other organizations around the world are also making blockchain real estate strides. Bank of China Hong Kong (BOCHK), for example, stated in mid-2018 that it processes 85% of real estate appraisals using its own private blockchain.
+BOCHK’s General Manager of Information Technology Rocky Cheng Chung-ngam said, “In the past, banks and [real estate] appraisers had to exchange faxes and emails to produce and deliver physical certificates. Now the process can be done on blockchain in seconds.”
+Property management is highly complex, with many stakeholders involved — including landlords, property managers, tenants, and vendors. 
+Most properties are currently managed either offline through manual paperwork, or through multiple software programs that generally don’t integrate well with one another.
+Through the use of a single decentralized application that uses blockchain-backed smart contracts, the entire property management process, from signing lease agreements to managing cash flow to filing maintenance requests, can be conducted in a secure and transparent manner. 
+In residential real estate, for example, a landlord and tenant could digitally sign a smart contract agreement that includes information such as rental value, payment frequency, and details of both the tenant and property.
+ Based on the agreed upon terms, the smart contract could automatically initiate lease payments from the tenant to the landlord, as well as to any contractors that perform periodic maintenance. Upon termination of the lease, the smart contract could also be set to automatically send payment of the security deposit back to the tenant. 
+One business developing a blockchain-based property management system is Midasium. The company has built a private blockchain to execute smart contracts. 
+This allows traditional contracts, such as mortgage agreements and tenancy contracts, to be brought onto a blockchain to establish a history of agreements and financial transactions that can be traced and audited.
+ 
+
+Creating a tenancy contract with Midasium. Source: Midasium
+All data, except for public information like property location, is confidential and encrypted. The intended goal is a reduction in legal, accounting, and transaction costs, as well as a decreased risk of fraud and corruption. 
+AQUA is another enterprise that offers a blockchain-based property management system, except its application is specifically for hotel and resort management. 
+The AQUA PMS application is a blockchain platform designed for inventory management, task management, and maintenance management. The service is seeking to help customers reduce operational costs and response times. 
+AQUA PMS is currently being used by Hilton Worldwide. 
+At present, property titles are often paper-based, creating opportunities for errors and fraud. Title professionals find defects in 25% of all titles during the transaction process, according to the American Land Title Association. 
+Any identified defect makes it illegal to transfer a property title to a buyer until it is rectified. This means property owners often incur high legal fees to ensure authenticity and accuracy of their property titles. 
+Moreover, title fraud poses a risk to homeowners worldwide. US losses associated with title fraud reportedly averaged around $103,000 per case in 2015, compelling many property buyers to purchase title insurance. 
+These title management issues could potentially be mitigated by using blockchain technology to build immutable digital records of land titles. This approach could simplify property title management, making it more transparent and helping to reduce the risk of title fraud and the need for additional insurance.
+Some companies and governments around the globe have already implemented blockchain technology for the title management process. 
+For example, blockchain startup Ubitquity offers a platform for land titles to be stored on a public blockchain, where they could be less susceptible to theft, corruption, damage, or fraud. 
+In 2017, the company partnered with the Brazilian Cartorio de Registro de Imoveis (Real Estate Registry) to establish pilot programs.
+
+Source: Ubitquity 
+Ghanaian blockchain company Bitland has been working on a similar solution for Ghana, where it is estimated that almost 80% of land is unregistered, according to Forbes. Those that possess unregistered land find it more difficult to prove legal ownership, increasing their exposure to the risk of land seizures or property theft.
+Bitland is seeking to create secure digital public records of ownership on its blockchain platform, with the aim of protecting land owners from title fraud. Bitland has expanded to operate in 7 African nations, India, and is also working with Native Americans in the US. 
+Real estate giant RE/MAX has also been exploring blockchain use cases.
+RE/MAX partnered with blockchain company XYO Network to explore using blockchain technology to build a decentralized online land title registry in Mexico.
+XYO Network’s first project with RE/MAX involves tying location coordinates to unique digital tokens that represent land titles. As a property changes owners so will the digital token (with the transaction being recorded on a blockchain), establishing a transparent history of land ownership.
+SafeChain is another enterprise leveraging blockchain technology in the title management space. 
+The company helps title agents verify client identities, bank account ownership, and securely transfer wire information. Its platform seeks to reduce losses from fraud and bring down operational costs.
+Due to the extensive documentation required and the involvement of various intermediaries, existing modes of financing and payments for property transactions are currently slow, expensive, and opaque. These issues are especially pronounced when a property is financed through a mortgage and when international transactions are required.
+The current process for mortgage approval for residential properties takes on average around 30-60 days to complete, according to the National Association of Realtors. For commercial real estate — which is more complex to process than residential real estate — the time it takes to get approved can be even longer, often requiring around 90 days.
+This process could be simplified and made more transparent when blockchain technology is applied. For example, verifiable digital identities for properties could allow a reduction in both due diligence and loan documentation time, thus speeding up the mortgage approval process.
+
+Source: Blockchain Technology Labs 
+The borrower and lender could also use blockchain technology to execute an immutable smart contract-based loan document, fully accessible by all legal parties involved. Adoption of blockchain technology could save the US mortgage loan industry up to 20% in expenses per year, according to a report published by Moody’s Investor Service, which would amount to $1.7B in annual savings. 
+ShelterZoom is a startup aiming to streamline real estate transactions by putting all the processes on the Ethereum blockchain. 
+Real estate agents, buyers, sellers, and renters can view offers and acceptances on the platform, which also allows access to property titles, mortgages, legal documents, and home inspection reports. 
+ShelterZoom has partnered with over 90 brokerages around the world, including RE/MAX Revolution in Boston, Massachusetts. The platform is scheduled to go live in 2019.
+
+ShelterZoom’s platform. Source: ShelterZoom
+While there are many blockchain-based payment solutions out there, one of the most established is Ripple. 
+Ripple connects banks and payment providers on RippleNet, its private blockchain, seeking to provide a payment platform for transferring money globally.
+
+Source: Ripple
+One use case for Ripple is facilitating cross-border real estate payments. All parties involved in a real estate transaction can be connected on an online platform, view past transactions between parties, and make payments. 
+Ripple claims that its approach allows transactions to be secure, quick, and low cost — a compelling proposition compared to the high fees and multi-day wait associated with traditional international payment systems.
+Real estate investing has historically only been available to those able to put down large sums of capital — especially in regard to commercial property and multifamily housing. Additionally, real estate investing often involves expensive intermediaries such as fund managers, further raising the barrier to entry. 
+However, blockchain technology it looking to disrupt real estate investing by providing a way to decentralize the process through crowdsourcing and tokenization.
+Tokenizing real estate assets refers to a process in which a property owner can offer digital tokens that represent a share of their property. Using a blockchain to track these investments, with each transaction being time-stamped and immutable, makes it possible to limit the risk of fraud.
+This approach makes it easier to establish a market for property “micro-shares,” creating the potential for a property to effectively have numerous co-owners with a stake in potential returns.
+There are many blockchain-based real estate investment platforms that currently exist, though most are still in the development phase. 
+One that is more established is BitofProperty. The Singapore-based company has built a blockchain-based crowdfunding platform that allows users to invest in both residential and commercial rental properties. Users receive monthly income from the properties they have invested in. 
+
+Properties listed on BitofProperty. Source: BitofProperty
+Another example is Brickblock, a smart contract platform which  is seeking to use tokenized real estate to help developers raise capital for projects.
+Brickblock has received almost $6M in funding from Finch Capital and has several partnerships, including with JTC Group, solarisBank, and Peakside Capital. The platform has not yet gone live to the public.
+While blockchain technology could help solve many problems within the real estate industry, there are always challenges that come along with transitioning to an emerging technology that has not yet fully matured. 
+It is important to note that blockchain technology is still in its early stages, and full adoption across the real estate industry comes with its own set of challenges.
+Navigating complex regional regulations around the globe is a key issue that faces the adoption of any new technology, blockchain-based platforms included.
+
+Source: Lisk
+For example, some blockchain-based real estate investment platforms do not allow investors from the United States to participate because the relevant regulations tend to be strict and cause additional administrative overhead for the sale and trade of tokens. It is therefore easier for these platforms to simply prohibit Americans from participating, even with the loss of a huge market of potential investors. 
+Moreover, not all states and countries recognize smart contracts as legally binding, which poses a huge threat to parties that may not be aware of this — especially when it comes to contracts representing sizable investments like properties and titles.
+The regulatory hurdles that come along with blockchain technology are holding many enterprises back from adoption. Though some movement is taking place in this area. 
+Arizona Governor Doug Ducey signed a bill into law in March 2017 that made smart contracts legally binding. As of October 2018, 17 US state legislatures have either passed or are considering laws related to blockchain adoption, according to Deloitte. It is likely this trend will continue to spread across the US and the world.
+In the real estate industry, there are millions, if not billions, of global transactions made every year. This requires networks that can handle large transaction volumes quickly and efficiently. 
+However, Ethereum can only currently handle about 15 transactions per second, and Bitcoin only around 5 transactions. In comparison, Visa claims it can process over 24,000 transactions every second. A transaction bottleneck would pose a major issue for large-scale real estate enterprises that require ultra-fast processing times. 
+However, Ripple has claimed that its XRP token could theoretically process around 50,000 transactions per second — roughly double the amount of Visa. The blockchain startup has also stated that it already processes up to 1,500 XRP transactions per second, indicating that slow transaction speeds are not necessarily inherent to the blockchain approach and may dramatically improve over time.
+
+Source: Ripple
+Many different blockchains exist, and most of them are unable to communicate or work with one another. This lack of standardization, or interoperability, is a challenge in the blockchain sphere as a whole. 
+A rental company, for example, may wish to use the public Ethereum blockchain to execute lease contracts, but would prefer to keep tenant data and rent rolls on a private blockchain. Or an enterprise may begin using one blockchain solution, and later find a better solution for their needs and decide to migrate.
+To keep the past transaction histories protected, the second blockchain would need a way to reference the first blockchain — and this is currently not possible due to lack of interoperability. 
+There are a number of organizations working to solve this challenge, including Interledger, which aims to create a protocol for enabling payments between blockchain networks. A solution to enable cross-blockchain transactions would be beneficial, but blockchain platforms may have to introduce shared standards to fully address the interoperability issue.
+
+Source: Interledger
+As blockchain is still an emerging technology, most people still don’t fully understand what it is, how it works, and what its uses are.
+Widespread adoption of blockchain technology is still some way off,  especially as many industries have yet to fully explore its potential applicability. In the real estate industry, it could be a while before a majority of businesses feel confident enough in blockchain technology’s capabilities to adopt it for day-to-day operations.
+Until then, early adopters may find themselves with an advantage over those that lag behind, potentially creating opportunities to intensify competition and for new industry trailblazers to emerge.
+There is a long road ahead before blockchain technology reaches maturity.
+Companies are still experimenting with its applications, and many issues remain to be addressed as the general public continues to learn how to use and understand the decentralized technology. Moreover, blockchain technology must overcome the somewhat negative image it has gained from speculative cryptocurrency bubbles, with some projects amounting to thinly-veiled get-rich-quick schemes or even outright fraud.
+Yet, it is clear that this emerging technology has the potential to disrupt many industries, including real estate.
+With industry leaders and governments exploring and implementing blockchain applications in the real estate space, it’s possible that this old industry may be one of the first to make the leap into a decentralized digital world.
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07124005/2018.11.20-Ethereum1-1024x720.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07135542/112017-Blockchain-4-V2-1024x570.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07153410/Zillow-homepage1-1024x427.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07154103/imbrex-page-1024x393.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07154326/imbrex-platform-1024x346.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07161229/chromaway-1024x538.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07165957/midasium-1024x534.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07173009/ubitquity-1024x403.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07174024/mortgage-blockchain-1024x406.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07174235/shelterzoom-1024x748.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07174438/ripplenet-1024x446.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07174631/bitofproperty-1024x440.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07174827/blockchain-regulatory-environment-1024x438.jpg', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/07175310/ripple-1024x367.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/08100540/interledger-1024x475.png']
+10	"
+
+					Food & Beverage Trends To Watch In 2019                
+"	"
+			February 14, 2019        "	https://www.cbinsights.com/research/food-beverage-trends-2019/	"What’s next for food and beverage tech? Our analysts examined signals from across the industry to find the top 20 F&B trends to watch in 2019. 
+Software is eating the world, and what you eat and drink is no exception. Between the rise of F&B startups, changing consumer preferences, and moves by incumbent brands to adapt, the food & beverage industry is undergoing tremendous change. We identified 20 top F&B trends to watch this year.
+Corporates are beginning to embrace plant protein, and 2019 will see the first plant protein company go public. Expect expansion of the trend to new products including vitamins, coffee, and milk.
+Amid the “retail apocalypse,” retailers are investing more in their private labels, aiming to increase margins and strengthen shopper loyalty. Private labels represent one of the more dominant food & beverage trends, and are a growing threat to traditional CPG brands.
+
+Food leaders have been slow to adopt to direct-to-consumer distribution, but that’s beginning to change. One of the top F&B trends will be incumbents acquiring D2C startups and applying their logistical infrastructure to existing product lines.
+F&B companies are using new technologies to reduce sugar in their products, meeting consumer demand for healthier foods. Beyond changing their product lineups, major food corporations are taking advantage of advances in biotechnology and new sweeteners.
+With consumers less likely to visit centralized shopping locations, brands need to open points of sale in new places. They’re going to shoppers, instead of asking shoppers to go to them. In 2019, expect to see more partnerships between food producers and alternative offline distribution channels. In-office distribution is becoming increasingly widespread, and we expect this trend to continue this year.
+
+Pop-up retail continues to gain steam as a marketing tactic, customer engagement driver, and data collection strategy for brands. While they don’t necessarily emphasize immediate product sales, pop-up stores tend to promote experiences. As companies face growing pressure to sell directly to consumers, we’ll likely see more experimentation with pop-ups in 2019.
+Amazon is heavily promoting voice commerce, but shoppers have yet to bite. Nearly a quarter of Americans own smart speakers, but only 2% of Alexa users have used the speaker for shopping. However, expect companies to still promote voice commerce, even by having speakers suggest products to consumers.
+
+As legalized cannabis spreads in North America, beer companies are leading the way in investing in the growing trend. As cannabis consumption grows, several beer and liquor producers are hedging against slipping alcohol sales by investing in cannabis. One of the top F&B trends will be major brands entering the space despite federal laws against cannabis.
+Each new food safety scare pushes food companies toward blockchain-based supply chains, which promise greater transparency. Recently, Walmart announced that it’s requiring its suppliers of leafy greens to use blockchain-based tracking by September 2019. Backed by industry leaders, we expect blockchain pilot programs to expand in the food industry in 2019.
+
+Foods and supplements that promise beauty benefits are on the rise. But unlike other F&B trends based on emerging technology, this one may be mostly based on marketing. As consumer demand spikes, expect more food brands and retailers to enter the ingestible beauty space.
+Startups working on new foods and beverages have the potential to change how and what we eat. Look for Food & Beverage Startups in the Collections tab.
+1450+ items
+Have robots progressed to the point where retailers can trust them to roam store floors alongside shoppers? Not quite. In 2019, expect retailers to ramp up their investment in inventory management robots, rather than robots that interact with customers. 
+Although in its early stages, IoT packaging can help brands gather consumer data and facilitate refills when products run out. Because of the high costs of producing IoT packaging at scale, the frontrunners in the space will likely be incumbents. Even in its nascent stage, IoT packaging is one of the top F&B trends to watch this year.
+
+Thanks to ramped-up investment by meat incumbents in lab-grown proteins, expect the field to grow in 2019. Additionally, the first lab-grown dairy could hit shelves soon. While lab-grown meat may not be one of the F&B trends to take off this year, commercial launches could come to fruition over the next 1-3 years.
+
+Grocery chains announced their first partnerships with automated micro-fulfillment startups in 2018, setting the stage for further development in 2019. Micro-fulfillment centers are situated closer to local consumers, hold area-optimized inventory, and tend to rely heavily on robots, compared to conventional centralized warehouses with large footprints and workforces. In 2019, watch for more partnerships and investments by major grocery chains and other vendors.
+
+As sales continue to move online, companies have begun to invest in new packaging designs that make shipping more efficient. Additionally, the rise of e-commerce has changed how brands display and promote their products online. One of the top F&B trends of 2019 will be brands investing in new kinds of packaging and presentation.
+Personalization has been one of the most talked-about F&B trends, but now emerging technology is making it more practical to implement. Tools like online surveys, big data, at-home DNA testing, and machine vision can help companies better understand consumer needs. Machine learning can help select the products best-suited to each shopper, while 3D printing and automated factories can support production.
+
+F&B trends to support environmental sustainability are catching on, but industry leaders are still figuring out how these initiatives can support their bottom lines. In 2019, look for more eco-friendly initiatives like upcycling, food waste reduction, and supply chain enhancements. 
+Food brands can take advantage of wellness trends by emphasizing transparency, natural ingredients, and the health benefits of products. Some companies are moving into healthier product lines through acquisitions, and we expect this trend to grow in 2019.
+Gluten-free foods are increasingly popular, but the trend is no longer a needle-mover for big companies. Mentions of “gluten-free” on earnings calls have dropped precipitously since 2015, potentially because consumers are viewing gluten-free food as a more typical offering. In 2019, expect discussions of gluten-free products to continue to taper off.
+
+Many meal kit startups have struggled or gone out of business, but meal kits are finding new life as marketing tools for grocery chains. Several grocers have acquired meal kit startups, and we’ll likely see them integrated more deeply into grocery stores and websites. In this guise meal kits will live on as a feature, not as a standalone business.
+See the trends poised to reshape industries in the coming year.
+"	['https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04102722/1-Tyson_Earnings_ProteinvsMeat-768x443.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04102918/2-retailers-cpg-private-labels-slide-1024x576.jpg', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04103055/5-POS-the-great-dispersal-infographic-1024x576.jpg', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04103453/9-amazon-gathers-new-data-streams-via-smart-speaker-1024x576.jpg', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04103620/12-blockchain-retail-and-consumer-initiatives-1024x548.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04103736/16-pernod-ricard-bottles-1024x576.jpg', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04103913/18-protein-leaders-invest-in-lab-grown-meat-1024x666.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04104026/19-micro_fulfillment_size_comparison.png', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04104241/22-personalization-why-now-slide-1024x576.jpg', 'https://s3.amazonaws.com/cbi-research-portal-uploads/2019/02/04104415/28-gluten-free-mentions-in-earnings-calls.png']
